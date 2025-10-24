@@ -1,0 +1,49 @@
+# Creating Matrices ####
+
+MatT <- matrix(c(1,2,3,4,5,6,7,8,9), nrow = 3, byrow = TRUE)
+MatT
+
+MatAlpha1 <- matrix(c(1,1,1,1,1,1,1,1,1), nrow = 3, byrow = TRUE)
+MatAlpha1
+
+MatAlpha2 <- matrix(c(2,2,2,2,2,2,2,2,2), nrow = 3, byrow = TRUE)
+MatAlpha2
+
+MatX <- matrix(c(2,2,2,2,2,2,2,2,2), nrow = 3, byrow = TRUE)
+MatX
+
+
+## Declaring Constants ####
+c <- 2
+k <- 3
+
+###function ####
+# Parameters(theta) : 1 = Delta, 2 = Beta, 3 = Theta1, 4 = Theta2, 5 = Alpha1, 6 = Alpha2
+m <- function(theta)
+{
+  sum( log(
+    
+    1 + (theta[1] * theta[2] * c * exp(-theta[2] * (theta[5] + (theta[3] * MatT))) * (theta[5] + (theta[3] * MatT))) +
+      
+      
+      theta[1] * (-1)^(k+1) * (theta[2] * c)^k *
+      
+      
+      prod(exp(-theta[2] * (theta[6] + (theta[4] * MatX)))) * (theta[6] + (theta[4] * MatX)) + 
+      
+      
+      
+      theta[1] * (-1)^(k+1) * (theta[2] * c)^(k+1) * 
+      
+      
+      exp(-theta[2] * (theta[5] + (theta[3] * MatT))) * (theta[5] + (theta[3] * MatT)) * 
+      
+      
+      prod(exp(-theta[2] * (theta[6] + (theta[4] * MatX))) * (theta[6] + (theta[4] * MatX)))
+    
+  ))
+}
+
+#result <- nlm(m, c(0.1, 0.1, 0.1, 0.1, 0.1, 0.1), hessian = TRUE)
+result <- nlm(m, c(1,1,1,1,1,1), hessian = TRUE)
+result

@@ -1,0 +1,776 @@
+X,Y,GID_2,GID_0,COUNTRY,GID_1,NAME_1,NL_NAME_1,NAME_2,VARNAME_2,NL_NAME_2,TYPE_2,ENGTYPE_2,CC_2,HASC_2
+7.32666428432099,5.09290193870112,NGA.1.1_1,NGA,Nigeria,NGA.1_1,Abia,NA,Aba North,NA,NA,Local Authority,Local Authority,NA,NA
+7.33826406924087,5.07540665819349,NGA.1.2_1,NGA,Nigeria,NGA.1_1,Abia,NA,Aba South,NA,NA,Local Authority,Local Authority,NA,NA
+7.85827790991423,5.49878156536634,NGA.1.3_1,NGA,Nigeria,NGA.1_1,Abia,NA,Arochukwu,NA,NA,Local Authority,Local Authority,NA,NA
+7.55661791024475,5.62055898178394,NGA.1.4_1,NGA,Nigeria,NGA.1_1,Abia,NA,Bende,NA,NA,Local Authority,Local Authority,NA,NA
+7.56341484442909,5.38346733834964,NGA.1.5_1,NGA,Nigeria,NGA.1_1,Abia,NA,Ikwuano,NA,NA,Local Authority,Local Authority,NA,NA
+7.39705128902905,5.35915519953319,NGA.1.6_1,NGA,Nigeria,NGA.1_1,Abia,NA,Isiala Ngwa North,NA,NA,Local Authority,Local Authority,NA,NA
+7.42726541644064,5.25853131083313,NGA.1.7_1,NGA,Nigeria,NGA.1_1,Abia,NA,Isiala Ngwa South,NA,NA,Local Authority,Local Authority,NA,NA
+7.45944908015442,5.76309779132658,NGA.1.8_1,NGA,Nigeria,NGA.1_1,Abia,NA,Isuikwuato,NA,NA,Local Authority,Local Authority,NA,NA
+7.43570621188835,5.13672661302982,NGA.1.9_1,NGA,Nigeria,NGA.1_1,Abia,NA,Obi Ngwa,NA,NA,Local Authority,Local Authority,NA,NA
+7.7649426926151,5.64940161594766,NGA.1.10_1,NGA,Nigeria,NGA.1_1,Abia,NA,Ohafia,NA,NA,Local Authority,Local Authority,NA,NA
+7.32146564081221,5.17946792730616,NGA.1.11_1,NGA,Nigeria,NGA.1_1,Abia,NA,Osisioma Ngwa,NA,NA,Local Authority,Local Authority,NA,NA
+7.34227450363521,5.0163190112352,NGA.1.12_1,NGA,Nigeria,NGA.1_1,Abia,NA,Ugwunagbo,NA,NA,Local Authority,Local Authority,NA,NA
+7.39550405712803,4.92132635648632,NGA.1.13_1,NGA,Nigeria,NGA.1_1,Abia,NA,Ukwa East,NA,NA,Local Authority,Local Authority,NA,NA
+7.23033025666514,4.98018407349749,NGA.1.14_1,NGA,Nigeria,NGA.1_1,Abia,NA,Ukwa West,NA,NA,Local Authority,Local Authority,NA,NA
+7.39498254278857,5.93773510112403,NGA.1.15_1,NGA,Nigeria,NGA.1_1,Abia,NA,Umu Nneochi,NA,NA,Local Authority,Local Authority,NA,NA
+7.45047024464055,5.57250089845601,NGA.1.16_1,NGA,Nigeria,NGA.1_1,Abia,NA,Umuahia North,NA,NA,Local Authority,Local Authority,NA,NA
+7.44752853856347,5.46621579613272,NGA.1.17_1,NGA,Nigeria,NGA.1_1,Abia,NA,Umuahia South,NA,NA,Local Authority,Local Authority,NA,NA
+12.1975466377365,9.41321181904209,NGA.2.1_1,NGA,Nigeria,NGA.2_1,Adamawa,NA,Demsa,NA,NA,Local Authority,Local Authority,NA,NA
+12.8165429548772,9.2535869337588,NGA.2.2_1,NGA,Nigeria,NGA.2_1,Adamawa,NA,Fufore,NA,NA,Local Authority,Local Authority,NA,NA
+11.9906178112433,8.43646831512024,NGA.2.3_1,NGA,Nigeria,NGA.2_1,Adamawa,NA,Ganye,NA,NA,Local Authority,Local Authority,NA,NA
+12.6410414920835,10.2231093124709,NGA.2.4_1,NGA,Nigeria,NGA.2_1,Adamawa,NA,Girie,NA,NA,Local Authority,Local Authority,NA,NA
+12.5834708598559,9.41414722030702,NGA.2.5_1,NGA,Nigeria,NGA.2_1,Adamawa,NA,Gombi,NA,NA,Local Authority,Local Authority,NA,NA
+12.0085716201254,9.83091924758797,NGA.2.6_1,NGA,Nigeria,NGA.2_1,Adamawa,NA,Guyuk,NA,NA,Local Authority,Local Authority,NA,NA
+13.0532481870204,10.2744110670701,NGA.2.7_1,NGA,Nigeria,NGA.2_1,Adamawa,NA,Hong,NA,NA,Local Authority,Local Authority,NA,NA
+12.433186685913,8.66143426042646,NGA.2.8_1,NGA,Nigeria,NGA.2_1,Adamawa,NA,Jada,NA,NA,Local Authority,Local Authority,NA,NA
+11.7988288286072,9.56078503094893,NGA.2.9_1,NGA,Nigeria,NGA.2_1,Adamawa,NA,Lamurde,NA,NA,Local Authority,Local Authority,NA,NA
+13.549133748132,10.8415199350625,NGA.2.10_1,NGA,Nigeria,NGA.2_1,Adamawa,NA,Madagali,NA,NA,Local Authority,Local Authority,NA,NA
+13.2067726825597,9.86569365428769,NGA.2.11_1,NGA,Nigeria,NGA.2_1,Adamawa,NA,Maiha,NA,NA,Local Authority,Local Authority,NA,NA
+12.0938790474528,8.8219037626965,NGA.2.12_1,NGA,Nigeria,NGA.2_1,Adamawa,NA,Mayo-Belwa,NA,NA,Local Authority,Local Authority,NA,NA
+13.4490230945918,10.6071611202257,NGA.2.13_1,NGA,Nigeria,NGA.2_1,Adamawa,NA,Michika,NA,NA,Local Authority,Local Authority,NA,NA
+13.3886205563951,10.2980574419455,NGA.2.14_1,NGA,Nigeria,NGA.2_1,Adamawa,NA,Mubi North,NA,NA,Local Authority,Local Authority,NA,NA
+13.3983604434918,10.1789148001922,NGA.2.15_1,NGA,Nigeria,NGA.2_1,Adamawa,NA,Mubi South,NA,NA,Local Authority,Local Authority,NA,NA
+11.9472297215955,9.45603631778983,NGA.2.16_1,NGA,Nigeria,NGA.2_1,Adamawa,NA,Numan,NA,NA,Local Authority,Local Authority,NA,NA
+12.1984632847612,9.97562922623852,NGA.2.17_1,NGA,Nigeria,NGA.2_1,Adamawa,NA,Shelleng,NA,NA,Local Authority,Local Authority,NA,NA
+12.7497346714149,9.78785667596291,NGA.2.18_1,NGA,Nigeria,NGA.2_1,Adamawa,NA,Song,NA,NA,Local Authority,Local Authority,NA,NA
+11.9287077804209,7.91668295835357,NGA.2.19_1,NGA,Nigeria,NGA.2_1,Adamawa,NA,Teungo,NA,NA,Local Authority,Local Authority,NA,NA
+12.5166814561962,9.26646165123178,NGA.2.20_1,NGA,Nigeria,NGA.2_1,Adamawa,NA,Yola North,NA,NA,Local Authority,Local Authority,NA,NA
+12.5919939456216,9.16473916438874,NGA.2.21_1,NGA,Nigeria,NGA.2_1,Adamawa,NA,Yola South,NA,NA,Local Authority,Local Authority,NA,NA
+7.7907097183774,4.99040679291366,NGA.3.1_1,NGA,Nigeria,NGA.3_1,Akwa Ibom,NA,Abak,NA,NA,Local Authority,Local Authority,NA,NA
+7.76977757870587,4.52911371576387,NGA.3.2_1,NGA,Nigeria,NGA.3_1,Akwa Ibom,NA,Eastern Obolo,NA,NA,Local Authority,Local Authority,NA,NA
+7.94816397782301,4.62314407644231,NGA.3.3_1,NGA,Nigeria,NGA.3_1,Akwa Ibom,NA,Eket,NA,NA,Local Authority,Local Authority,NA,NA
+8.07501917603782,4.63948748793923,NGA.3.4_1,NGA,Nigeria,NGA.3_1,Akwa Ibom,NA,Esit Eket,NA,NA,Local Authority,Local Authority,NA,NA
+7.65027476236303,5.09328538153637,NGA.3.5_1,NGA,Nigeria,NGA.3_1,Akwa Ibom,NA,Essien Udim,NA,NA,Local Authority,Local Authority,NA,NA
+7.603556223276,4.94931150532321,NGA.3.6_1,NGA,Nigeria,NGA.3_1,Akwa Ibom,NA,Etim Ekpo,NA,NA,Local Authority,Local Authority,NA,NA
+7.83567622065989,4.82786045845691,NGA.3.7_1,NGA,Nigeria,NGA.3_1,Akwa Ibom,NA,Etinan,NA,NA,Local Authority,Local Authority,NA,NA
+8.11349062721237,4.55920983354381,NGA.3.8_1,NGA,Nigeria,NGA.3_1,Akwa Ibom,NA,Ibeno,NA,NA,Local Authority,Local Authority,NA,NA
+7.94912067509034,4.90267250126206,NGA.3.9_1,NGA,Nigeria,NGA.3_1,Akwa Ibom,NA,Ibesikpo Asutan,NA,NA,Local Authority,Local Authority,NA,NA
+7.89014396797036,5.18639818468439,NGA.3.10_1,NGA,Nigeria,NGA.3_1,Akwa Ibom,NA,Ibiono Ibom,NA,NA,Local Authority,Local Authority,NA,NA
+7.51761684039875,5.00018389657775,NGA.3.11_1,NGA,Nigeria,NGA.3_1,Akwa Ibom,NA,Ika,NA,NA,Local Authority,Local Authority,NA,NA
+7.78453453212418,5.17588952271188,NGA.3.12_1,NGA,Nigeria,NGA.3_1,Akwa Ibom,NA,Ikono,NA,NA,Local Authority,Local Authority,NA,NA
+7.63224391791401,4.60588805143178,NGA.3.13_1,NGA,Nigeria,NGA.3_1,Akwa Ibom,NA,Ikot Abasi,NA,NA,Local Authority,Local Authority,NA,NA
+7.68105107267707,5.1934326699651,NGA.3.14_1,NGA,Nigeria,NGA.3_1,Akwa Ibom,NA,Ikot Ekpene,NA,NA,Local Authority,Local Authority,NA,NA
+7.74113944383108,5.40971343537409,NGA.3.15_1,NGA,Nigeria,NGA.3_1,Akwa Ibom,NA,Ini,NA,NA,Local Authority,Local Authority,NA,NA
+7.99306334165832,5.14311432492287,NGA.3.16_1,NGA,Nigeria,NGA.3_1,Akwa Ibom,NA,Itu,NA,NA,Local Authority,Local Authority,NA,NA
+8.24921630840439,4.66138850000013,NGA.3.17_1,NGA,Nigeria,NGA.3_1,Akwa Ibom,NA,Mbo,NA,NA,Local Authority,Local Authority,NA,NA
+7.74327787908327,4.69831065227225,NGA.3.18_1,NGA,Nigeria,NGA.3_1,Akwa Ibom,NA,Mkpat Enin,NA,NA,Local Authority,Local Authority,NA,NA
+8.01666493265041,4.81009137201511,NGA.3.19_1,NGA,Nigeria,NGA.3_1,Akwa Ibom,NA,Nsit Atai,NA,NA,Local Authority,Local Authority,NA,NA
+7.87875005297234,4.89107711447129,NGA.3.20_1,NGA,Nigeria,NGA.3_1,Akwa Ibom,NA,Nsit Ibom,NA,NA,Local Authority,Local Authority,NA,NA
+7.94088994657715,4.7512143995064,NGA.3.21_1,NGA,Nigeria,NGA.3_1,Akwa Ibom,NA,Nsit Ubium,NA,NA,Local Authority,Local Authority,NA,NA
+7.58702835169818,5.23358892238381,NGA.3.22_1,NGA,Nigeria,NGA.3_1,Akwa Ibom,NA,Obot Akara,NA,NA,Local Authority,Local Authority,NA,NA
+8.12304802773654,4.79878884053065,NGA.3.23_1,NGA,Nigeria,NGA.3_1,Akwa Ibom,NA,Okobo,NA,NA,Local Authority,Local Authority,NA,NA
+7.85023556976552,4.62384603923099,NGA.3.24_1,NGA,Nigeria,NGA.3_1,Akwa Ibom,NA,Onna,NA,NA,Local Authority,Local Authority,NA,NA
+8.30163176208715,4.76163058067529,NGA.3.25_1,NGA,Nigeria,NGA.3_1,Akwa Ibom,NA,Oron,NA,NA,Local Authority,Local Authority,NA,NA
+7.66724931278446,4.80766947028604,NGA.3.26_1,NGA,Nigeria,NGA.3_1,Akwa Ibom,NA,Oruk Anam,NA,NA,Local Authority,Local Authority,NA,NA
+8.25049192856587,4.7497555615818,NGA.3.27_1,NGA,Nigeria,NGA.3_1,Akwa Ibom,NA,Udung Uko,NA,NA,Local Authority,Local Authority,NA,NA
+7.59073143131305,4.89214877131866,NGA.3.28_1,NGA,Nigeria,NGA.3_1,Akwa Ibom,NA,Ukanafun,NA,NA,Local Authority,Local Authority,NA,NA
+8.05218763901088,4.98723167929208,NGA.3.29_1,NGA,Nigeria,NGA.3_1,Akwa Ibom,NA,Uruan,NA,NA,Local Authority,Local Authority,NA,NA
+8.15692080656527,4.71461589970305,NGA.3.30_1,NGA,Nigeria,NGA.3_1,Akwa Ibom,NA,Urue Offong,Oruko,NA,Local Authority,Local Authority,NA,NA
+7.970833844763,4.97973402180115,NGA.3.31_1,NGA,Nigeria,NGA.3_1,Akwa Ibom,NA,Uyo,NA,NA,Local Authority,Local Authority,NA,NA
+7.03424901041049,5.97557160298717,NGA.4.1_1,NGA,Nigeria,NGA.4_1,Anambra,NA,Aguata,NA,NA,Local Authority,Local Authority,NA,NA
+6.86027292717939,6.29547231164219,NGA.4.2_1,NGA,Nigeria,NGA.4_1,Anambra,NA,Anambra East,NA,NA,Local Authority,Local Authority,NA,NA
+6.77567782120108,6.4799399320561,NGA.4.3_1,NGA,Nigeria,NGA.4_1,Anambra,NA,Anambra West,NA,NA,Local Authority,Local Authority,NA,NA
+7.00584446510748,6.08559580620155,NGA.4.4_1,NGA,Nigeria,NGA.4_1,Anambra,NA,Anaocha,NA,NA,Local Authority,Local Authority,NA,NA
+7.03641682455929,6.33199558575352,NGA.4.5_1,NGA,Nigeria,NGA.4_1,Anambra,NA,Awka North,NA,NA,Local Authority,Local Authority,NA,NA
+7.0673015105046,6.1678609753757,NGA.4.6_1,NGA,Nigeria,NGA.4_1,Anambra,NA,Awka South,NA,NA,Local Authority,Local Authority,NA,NA
+6.96474822940379,6.54482620010087,NGA.4.7_1,NGA,Nigeria,NGA.4_1,Anambra,NA,Ayamelum,NA,NA,Local Authority,Local Authority,NA,NA
+6.93315455102974,6.22287683509099,NGA.4.8_1,NGA,Nigeria,NGA.4_1,Anambra,NA,Dunukofia,NA,NA,Local Authority,Local Authority,NA,NA
+6.82923181641032,5.97671286391355,NGA.4.9_1,NGA,Nigeria,NGA.4_1,Anambra,NA,Ekwusigo,NA,NA,Local Authority,Local Authority,NA,NA
+6.88987685116064,6.10876652900101,NGA.4.10_1,NGA,Nigeria,NGA.4_1,Anambra,NA,Idemili North,NA,NA,Local Authority,Local Authority,NA,NA
+6.91571155644936,6.05282736392883,NGA.4.11_1,NGA,Nigeria,NGA.4_1,Anambra,NA,Idemili South,NA,NA,Local Authority,Local Authority,NA,NA
+6.85123222114025,5.82652683069145,NGA.4.12_1,NGA,Nigeria,NGA.4_1,Anambra,NA,Ihiala,NA,NA,Local Authority,Local Authority,NA,NA
+6.97095092682482,6.18202878218842,NGA.4.13_1,NGA,Nigeria,NGA.4_1,Anambra,NA,Njikoka,NA,NA,Local Authority,Local Authority,NA,NA
+6.89380458602223,5.98877265872262,NGA.4.14_1,NGA,Nigeria,NGA.4_1,Anambra,NA,Nnewi North,NA,NA,Local Authority,Local Authority,NA,NA
+6.95166826268405,5.93096243780984,NGA.4.15_1,NGA,Nigeria,NGA.4_1,Anambra,NA,Nnewi South,NA,NA,Local Authority,Local Authority,NA,NA
+6.73419024774731,5.87706793221591,NGA.4.16_1,NGA,Nigeria,NGA.4_1,Anambra,NA,Ogbaru,NA,NA,Local Authority,Local Authority,NA,NA
+6.78029009242841,6.10834607401214,NGA.4.17_1,NGA,Nigeria,NGA.4_1,Anambra,NA,Onitsha North,NA,NA,Local Authority,Local Authority,NA,NA
+6.75322818802801,6.07861672898903,NGA.4.18_1,NGA,Nigeria,NGA.4_1,Anambra,NA,Onitsha South,NA,NA,Local Authority,Local Authority,NA,NA
+7.15390399583614,6.10472807670372,NGA.4.19_1,NGA,Nigeria,NGA.4_1,Anambra,NA,Orumba North,NA,NA,Local Authority,Local Authority,NA,NA
+7.21091894462665,5.97590602127391,NGA.4.20_1,NGA,Nigeria,NGA.4_1,Anambra,NA,Orumba South,NA,NA,Local Authority,Local Authority,NA,NA
+6.8842332641062,6.21101959195177,NGA.4.21_1,NGA,Nigeria,NGA.4_1,Anambra,NA,Oyi,NA,NA,Local Authority,Local Authority,NA,NA
+10.4639747357836,9.89590883620088,NGA.5.1_1,NGA,Nigeria,NGA.5_1,Bauchi,NA,Alkaleri,NA,NA,Local Authority,Local Authority,NA,NA
+9.98346092709561,10.1805557383916,NGA.5.2_1,NGA,Nigeria,NGA.5_1,Bauchi,NA,Bauchi,NA,NA,Local Authority,Local Authority,NA,NA
+9.61969381905618,9.64051133482915,NGA.5.3_1,NGA,Nigeria,NGA.5_1,Bauchi,NA,Bogoro,NA,NA,Local Authority,Local Authority,NA,NA
+10.8186445662397,11.5703372671985,NGA.5.4_1,NGA,Nigeria,NGA.5_1,Bauchi,NA,Damban,NA,NA,Local Authority,Local Authority,NA,NA
+10.5831195578631,11.1130395382359,NGA.5.5_1,NGA,Nigeria,NGA.5_1,Bauchi,NA,Darazo,NA,NA,Local Authority,Local Authority,NA,NA
+9.46406796277176,10.0106149307971,NGA.5.6_1,NGA,Nigeria,NGA.5_1,Bauchi,NA,Dass,NA,NA,Local Authority,Local Authority,NA,NA
+10.6178062922878,12.0042643103804,NGA.5.7_1,NGA,Nigeria,NGA.5_1,Bauchi,NA,Gamawa,NA,NA,Local Authority,Local Authority,NA,NA
+10.056749249628,10.723114408545,NGA.5.8_1,NGA,Nigeria,NGA.5_1,Bauchi,NA,Ganjuwa,NA,NA,Local Authority,Local Authority,NA,NA
+10.2704334572282,11.3954095185479,NGA.5.9_1,NGA,Nigeria,NGA.5_1,Bauchi,NA,Giade,NA,NA,Local Authority,Local Authority,NA,NA
+10.1572232647234,11.8684460355004,NGA.5.10_1,NGA,Nigeria,NGA.5_1,Bauchi,NA,Itas/Gadau,NA,NA,Local Authority,Local Authority,NA,NA
+9.96094603275493,11.654581725191,NGA.5.11_1,NGA,Nigeria,NGA.5_1,Bauchi,NA,Jama'are,NA,NA,Local Authority,Local Authority,NA,NA
+10.524371183597,11.563631297397,NGA.5.12_1,NGA,Nigeria,NGA.5_1,Bauchi,NA,Katagum,NA,NA,Local Authority,Local Authority,NA,NA
+10.5608744778962,10.4195866054081,NGA.5.13_1,NGA,Nigeria,NGA.5_1,Bauchi,NA,Kirfi,NA,NA,Local Authority,Local Authority,NA,NA
+10.4783119150139,11.3566361032578,NGA.5.14_1,NGA,Nigeria,NGA.5_1,Bauchi,NA,Misau,NA,NA,Local Authority,Local Authority,NA,NA
+9.18705138293889,11.0394874645968,NGA.5.15_1,NGA,Nigeria,NGA.5_1,Bauchi,NA,Ningi,NA,NA,Local Authority,Local Authority,NA,NA
+10.1030625235227,11.4170879884813,NGA.5.16_1,NGA,Nigeria,NGA.5_1,Bauchi,NA,Shira,NA,NA,Local Authority,Local Authority,NA,NA
+9.7064777247687,9.89461139402065,NGA.5.17_1,NGA,Nigeria,NGA.5_1,Bauchi,NA,Tafawa-Balewa,NA,NA,Local Authority,Local Authority,NA,NA
+9.27893367934903,10.318281837277,NGA.5.18_1,NGA,Nigeria,NGA.5_1,Bauchi,NA,Toro,NA,NA,Local Authority,Local Authority,NA,NA
+9.74372731905598,11.1345525564995,NGA.5.19_1,NGA,Nigeria,NGA.5_1,Bauchi,NA,Warji,NA,NA,Local Authority,Local Authority,NA,NA
+10.264700082123,12.1816437243524,NGA.5.20_1,NGA,Nigeria,NGA.5_1,Bauchi,NA,Zaki,NA,NA,Local Authority,Local Authority,NA,NA
+6.497361,4.3752785,NGA.6.1_1,NGA,Nigeria,NGA.6_1,Bayelsa,NA,Brass,NA,NA,Local Authority,Local Authority,NA,NA
+5.71698676293614,4.9724529487857,NGA.6.2_1,NGA,Nigeria,NGA.6_1,Bayelsa,NA,Ekeremor,NA,NA,Local Authority,Local Authority,NA,NA
+6.24741434765863,5.06466933588376,NGA.6.3_1,NGA,Nigeria,NGA.6_1,Bayelsa,NA,Kolokuma/Opokuma,NA,NA,Local Authority,Local Authority,NA,NA
+6.39083350000013,4.50833350000011,NGA.6.4_1,NGA,Nigeria,NGA.6_1,Bayelsa,NA,Nembe,NA,NA,Local Authority,Local Authority,NA,NA
+6.30159231554701,4.78714790881246,NGA.6.5_1,NGA,Nigeria,NGA.6_1,Bayelsa,NA,Ogbia,NA,NA,Local Authority,Local Authority,NA,NA
+6.07975074690598,5.09762772757019,NGA.6.6_1,NGA,Nigeria,NGA.6_1,Bayelsa,NA,Sagbama,NA,NA,Local Authority,Local Authority,NA,NA
+5.94527205009405,4.708611,NGA.6.7_1,NGA,Nigeria,NGA.6_1,Bayelsa,NA,Southern Ijaw,NA,NA,Local Authority,Local Authority,NA,NA
+6.41455584774548,5.10877696680662,NGA.6.8_1,NGA,Nigeria,NGA.6_1,Bayelsa,NA,Yenagoa,NA,NA,Local Authority,Local Authority,NA,NA
+8.00407143277684,6.74887086355098,NGA.7.1_1,NGA,Nigeria,NGA.7_1,Benue,NA,Ado,NA,NA,Local Authority,Local Authority,NA,NA
+7.94008451309457,7.85470270919559,NGA.7.2_1,NGA,Nigeria,NGA.7_1,Benue,NA,Agatu,NA,NA,Local Authority,Local Authority,NA,NA
+7.90953449548207,7.59656109646141,NGA.7.3_1,NGA,Nigeria,NGA.7_1,Benue,NA,Apa,NA,NA,Local Authority,Local Authority,NA,NA
+9.23291219939849,7.36045416089594,NGA.7.4_1,NGA,Nigeria,NGA.7_1,Benue,NA,Bukuru,NA,NA,Local Authority,Local Authority,NA,NA
+8.89799429425684,7.33018063943854,NGA.7.5_1,NGA,Nigeria,NGA.7_1,Benue,NA,Gboko,NA,NA,Local Authority,Local Authority,NA,NA
+8.72036910566938,7.89195585060587,NGA.7.6_1,NGA,Nigeria,NGA.7_1,Benue,NA,Guma,NA,NA,Local Authority,Local Authority,NA,NA
+8.35852780336831,7.32555142602037,NGA.7.7_1,NGA,Nigeria,NGA.7_1,Benue,NA,Gwer East,NA,NA,Local Authority,Local Authority,NA,NA
+8.20892017315397,7.60003278847101,NGA.7.8_1,NGA,Nigeria,NGA.7_1,Benue,NA,Gwer West,NA,NA,Local Authority,Local Authority,NA,NA
+9.58532650810246,7.29369262012659,NGA.7.9_1,NGA,Nigeria,NGA.7_1,Benue,NA,Katsina-Ala,NA,NA,Local Authority,Local Authority,NA,NA
+8.62255690900502,7.07491496087803,NGA.7.10_1,NGA,Nigeria,NGA.7_1,Benue,NA,Konshisha,NA,NA,Local Authority,Local Authority,NA,NA
+9.43207228495773,6.86324789982447,NGA.7.11_1,NGA,Nigeria,NGA.7_1,Benue,NA,Kwande,NA,NA,Local Authority,Local Authority,NA,NA
+9.20627670002173,7.70769119374776,NGA.7.12_1,NGA,Nigeria,NGA.7_1,Benue,NA,Logo,NA,NA,Local Authority,Local Authority,NA,NA
+8.53498446169973,7.70474877405494,NGA.7.13_1,NGA,Nigeria,NGA.7_1,Benue,NA,Makurdi,NA,NA,Local Authority,Local Authority,NA,NA
+8.29440414443012,6.99146476998153,NGA.7.14_1,NGA,Nigeria,NGA.7_1,Benue,NA,Obi,NA,NA,Local Authority,Local Authority,NA,NA
+7.64211084201773,6.97088964416988,NGA.7.15_1,NGA,Nigeria,NGA.7_1,Benue,NA,Ogbadibo,NA,NA,Local Authority,Local Authority,NA,NA
+7.96098766547986,7.20877337505189,NGA.7.16_1,NGA,Nigeria,NGA.7_1,Benue,NA,Ohimini,NA,NA,Local Authority,Local Authority,NA,NA
+8.36483977963309,6.83829798145508,NGA.7.17_1,NGA,Nigeria,NGA.7_1,Benue,NA,Oju,NA,NA,Local Authority,Local Authority,NA,NA
+7.89765881214765,6.98948930544209,NGA.7.18_1,NGA,Nigeria,NGA.7_1,Benue,NA,Okpokwu,NA,NA,Local Authority,Local Authority,NA,NA
+8.07484097482515,7.28604878642256,NGA.7.19_1,NGA,Nigeria,NGA.7_1,Benue,NA,Otukpo,NA,NA,Local Authority,Local Authority,NA,NA
+8.84815290882615,7.57079951686716,NGA.7.20_1,NGA,Nigeria,NGA.7_1,Benue,NA,Tarka,NA,NA,Local Authority,Local Authority,NA,NA
+9.60411598128809,7.63296795318677,NGA.7.21_1,NGA,Nigeria,NGA.7_1,Benue,NA,Ukum,NA,NA,Local Authority,Local Authority,NA,NA
+9.11493623039432,7.0419311309201,NGA.7.22_1,NGA,Nigeria,NGA.7_1,Benue,NA,Ushongo,NA,NA,Local Authority,Local Authority,NA,NA
+9.05731998745879,6.81526397188487,NGA.7.23_1,NGA,Nigeria,NGA.7_1,Benue,NA,Vande Ikya,NA,NA,Local Authority,Local Authority,NA,NA
+13.1190944898907,13.3947384894023,NGA.8.1_1,NGA,Nigeria,NGA.8_1,Borno,NA,Abadam,NA,NA,Local Authority,Local Authority,NA,NA
+12.9406790239601,10.6380723456358,NGA.8.2_1,NGA,Nigeria,NGA.8_1,Borno,NA,Askira/Uba,NA,NA,Local Authority,Local Authority,NA,NA
+14.1966649202535,11.5467247605506,NGA.8.3_1,NGA,Nigeria,NGA.8_1,Borno,NA,Bama,NA,NA,Local Authority,Local Authority,NA,NA
+11.7765901270536,10.4331996672809,NGA.8.4_1,NGA,Nigeria,NGA.8_1,Borno,NA,Bayo,NA,NA,Local Authority,Local Authority,NA,NA
+12.1981432617628,10.8094377709443,NGA.8.5_1,NGA,Nigeria,NGA.8_1,Borno,NA,Biu,NA,NA,Local Authority,Local Authority,NA,NA
+12.8699257133139,10.8375426494861,NGA.8.6_1,NGA,Nigeria,NGA.8_1,Borno,NA,Chibok,NA,NA,Local Authority,Local Authority,NA,NA
+12.8196375782979,11.1720235419553,NGA.8.7_1,NGA,Nigeria,NGA.8_1,Borno,NA,Damboa,NA,NA,Local Authority,Local Authority,NA,NA
+14.1680603406317,11.9404625279473,NGA.8.8_1,NGA,Nigeria,NGA.8_1,Borno,NA,Dikwa,NA,NA,Local Authority,Local Authority,NA,NA
+12.8044509709242,12.7150172313745,NGA.8.9_1,NGA,Nigeria,NGA.8_1,Borno,NA,Gubio,NA,NA,Local Authority,Local Authority,NA,NA
+13.3113881465339,12.8604449020053,NGA.8.10_1,NGA,Nigeria,NGA.8_1,Borno,NA,Guzamala,NA,NA,Local Authority,Local Authority,NA,NA
+13.6769645265339,11.1934396711596,NGA.8.11_1,NGA,Nigeria,NGA.8_1,Borno,NA,Gwoza,NA,NA,Local Authority,Local Authority,NA,NA
+12.415299423985,10.4592101814092,NGA.8.12_1,NGA,Nigeria,NGA.8_1,Borno,NA,Hawul,NA,NA,Local Authority,Local Authority,NA,NA
+13.2885789051497,11.9184361549352,NGA.8.13_1,NGA,Nigeria,NGA.8_1,Borno,NA,Jere,NA,NA,Local Authority,Local Authority,NA,NA
+12.5462903973997,11.5926660459408,NGA.8.14_1,NGA,Nigeria,NGA.8_1,Borno,NA,Kaga,NA,NA,Local Authority,Local Authority,NA,NA
+14.5258073910524,12.0592565247303,NGA.8.15_1,NGA,Nigeria,NGA.8_1,Borno,NA,Kala/Balge,NA,NA,Local Authority,Local Authority,NA,NA
+13.585198616203,11.6958598891434,NGA.8.16_1,NGA,Nigeria,NGA.8_1,Borno,NA,Konduga,NA,NA,Local Authority,Local Authority,NA,NA
+13.601749660941,12.9919658544266,NGA.8.17_1,NGA,Nigeria,NGA.8_1,Borno,NA,Kukawa,NA,NA,Local Authority,Local Authority,NA,NA
+11.9990978027597,10.4220498018615,NGA.8.18_1,NGA,Nigeria,NGA.8_1,Borno,NA,Kwaya Kusar,NA,NA,Local Authority,Local Authority,NA,NA
+13.965788140949,13.0756883927229,NGA.8.19_1,NGA,Nigeria,NGA.8_1,Borno,NA,Lake Chad,NA,NA,Water body,Water body,NA,NA
+13.6206852741263,12.0567816826018,NGA.8.20_1,NGA,Nigeria,NGA.8_1,Borno,NA,Mafa,NA,NA,Local Authority,Local Authority,NA,NA
+12.7443500388549,12.2139887013943,NGA.8.21_1,NGA,Nigeria,NGA.8_1,Borno,NA,Magumeri,NA,NA,Local Authority,Local Authority,NA,NA
+13.201730263111,11.8650125900247,NGA.8.22_1,NGA,Nigeria,NGA.8_1,Borno,NA,Maiduguri,NA,NA,Local Authority,Local Authority,NA,NA
+13.8610077685744,12.3922272932912,NGA.8.23_1,NGA,Nigeria,NGA.8_1,Borno,NA,Marte,NA,NA,Local Authority,Local Authority,NA,NA
+12.6427931713363,13.0369546416811,NGA.8.24_1,NGA,Nigeria,NGA.8_1,Borno,NA,Mobbar,NA,NA,Local Authority,Local Authority,NA,NA
+13.563190875584,12.48928206345,NGA.8.25_1,NGA,Nigeria,NGA.8_1,Borno,NA,Monguno,NA,NA,Local Authority,Local Authority,NA,NA
+14.2614510611864,12.1976394358564,NGA.8.26_1,NGA,Nigeria,NGA.8_1,Borno,NA,Ngala,NA,NA,Local Authority,Local Authority,NA,NA
+13.1391662900092,12.4626808973317,NGA.8.27_1,NGA,Nigeria,NGA.8_1,Borno,NA,Nganzai,NA,NA,Local Authority,Local Authority,NA,NA
+12.0473279221055,10.1863412123892,NGA.8.28_1,NGA,Nigeria,NGA.8_1,Borno,NA,Shani,NA,NA,Local Authority,Local Authority,NA,NA
+8.00604884766195,5.88832810716913,NGA.9.1_1,NGA,Nigeria,NGA.9_1,Cross River,NA,Abi,NA,NA,Local Authority,Local Authority,NA,NA
+8.5222912870747,5.37841282781633,NGA.9.2_1,NGA,Nigeria,NGA.9_1,Cross River,NA,Akamkpa,NA,NA,Local Authority,Local Authority,NA,NA
+8.47533384823678,4.91058372522179,NGA.9.3_1,NGA,Nigeria,NGA.9_1,Cross River,NA,Akpabuyo,NA,NA,Local Authority,Local Authority,NA,NA
+8.50520230293442,4.77072056490898,NGA.9.4_1,NGA,Nigeria,NGA.9_1,Cross River,NA,Bakassi,NA,NA,Local Authority,Local Authority,NA,NA
+8.89666415785276,6.68943090626642,NGA.9.5_1,NGA,Nigeria,NGA.9_1,Cross River,NA,Bekwarra,NA,NA,Local Authority,Local Authority,NA,NA
+8.02677325906165,5.53745796081138,NGA.9.6_1,NGA,Nigeria,NGA.9_1,Cross River,NA,Biase,NA,NA,Local Authority,Local Authority,NA,NA
+9.01801565542366,6.24432939973971,NGA.9.7_1,NGA,Nigeria,NGA.9_1,Cross River,NA,Boki,NA,NA,Local Authority,Local Authority,NA,NA
+8.29644644548403,5.00300355983827,NGA.9.8_1,NGA,Nigeria,NGA.9_1,Cross River,NA,Calabar,Calabar Municipal,NA,Local Authority,Local Authority,NA,NA
+8.27126861617454,4.84790581523895,NGA.9.9_1,NGA,Nigeria,NGA.9_1,Cross River,NA,Calabar South,NA,NA,Local Authority,Local Authority,NA,NA
+8.77162551789791,5.8482192271432,NGA.9.10_1,NGA,Nigeria,NGA.9_1,Cross River,NA,Etung,NA,NA,Local Authority,Local Authority,NA,NA
+8.64794221326861,6.03784805361658,NGA.9.11_1,NGA,Nigeria,NGA.9_1,Cross River,NA,Ikom,NA,NA,Local Authority,Local Authority,NA,NA
+9.34054405892549,6.49170360254591,NGA.9.12_1,NGA,Nigeria,NGA.9_1,Cross River,NA,Obanliku,NA,NA,Local Authority,Local Authority,NA,NA
+8.34436911811966,6.00945554148476,NGA.9.13_1,NGA,Nigeria,NGA.9_1,Cross River,NA,Obubra,NA,NA,Local Authority,Local Authority,NA,NA
+9.03180347636841,6.5587534680448,NGA.9.14_1,NGA,Nigeria,NGA.9_1,Cross River,NA,Obudu,NA,NA,Local Authority,Local Authority,NA,NA
+8.13744344649922,5.20331763359956,NGA.9.15_1,NGA,Nigeria,NGA.9_1,Cross River,NA,Odukpani,NA,NA,Local Authority,Local Authority,NA,NA
+8.64060486766993,6.51389190695915,NGA.9.16_1,NGA,Nigeria,NGA.9_1,Cross River,NA,Ogoja,NA,NA,Local Authority,Local Authority,NA,NA
+8.14310900689003,5.8142890022522,NGA.9.17_1,NGA,Nigeria,NGA.9_1,Cross River,NA,Yakurr,NA,NA,Local Authority,Local Authority,NA,NA
+8.50267415667354,6.59005688073364,NGA.9.18_1,NGA,Nigeria,NGA.9_1,Cross River,NA,Yala,Yala Cross,NA,Local Authority,Local Authority,NA,NA
+6.47370137148868,6.3664070187012,NGA.10.1_1,NGA,Nigeria,NGA.10_1,Delta,NA,Aniocha North,NA,NA,Local Authority,Local Authority,NA,NA
+6.47587720189442,6.13872094679896,NGA.10.2_1,NGA,Nigeria,NGA.10_1,Delta,NA,Aniocha South,NA,NA,Local Authority,Local Authority,NA,NA
+5.80126276400003,5.21809249122445,NGA.10.3_1,NGA,Nigeria,NGA.10_1,Delta,NA,Bomadi,NA,NA,Local Authority,Local Authority,NA,NA
+5.60809811753112,5.2055555,NGA.10.4_1,NGA,Nigeria,NGA.10_1,Delta,NA,Burutu,NA,NA,Local Authority,Local Authority,NA,NA
+5.95826366484616,5.66614731104102,NGA.10.6_1,NGA,Nigeria,NGA.10_1,Delta,NA,Ethiope East,NA,NA,Local Authority,Local Authority,NA,NA
+5.75379442978054,5.90929400898171,NGA.10.5_1,NGA,Nigeria,NGA.10_1,Delta,NA,Ethiope West,NA,NA,Local Authority,Local Authority,NA,NA
+6.31849418166513,6.23893293956748,NGA.10.7_1,NGA,Nigeria,NGA.10_1,Delta,NA,Ika North-East,NA,NA,Local Authority,Local Authority,NA,NA
+6.11740786007008,6.17965491798831,NGA.10.8_1,NGA,Nigeria,NGA.10_1,Delta,NA,Ika South,NA,NA,Local Authority,Local Authority,NA,NA
+6.12620233072579,5.51336541442683,NGA.10.9_1,NGA,Nigeria,NGA.10_1,Delta,NA,Isoko North,NA,NA,Local Authority,Local Authority,NA,NA
+6.20360142871311,5.38225098182294,NGA.10.10_1,NGA,Nigeria,NGA.10_1,Delta,NA,Isoko South,NA,NA,Local Authority,Local Authority,NA,NA
+6.47415940732304,5.6397129580296,NGA.10.11_1,NGA,Nigeria,NGA.10_1,Delta,NA,Ndokwa East,NA,NA,Local Authority,Local Authority,NA,NA
+6.40582865258952,5.81981642143476,NGA.10.12_1,NGA,Nigeria,NGA.10_1,Delta,NA,Ndokwa West,NA,NA,Local Authority,Local Authority,NA,NA
+5.74518577886361,5.69260469657956,NGA.10.13_1,NGA,Nigeria,NGA.10_1,Delta,NA,Okpe,NA,NA,Local Authority,Local Authority,NA,NA
+6.64344927077476,6.315296593114,NGA.10.14_1,NGA,Nigeria,NGA.10_1,Delta,NA,Oshimili North,NA,NA,Local Authority,Local Authority,NA,NA
+6.71881377268453,6.11840052260486,NGA.10.15_1,NGA,Nigeria,NGA.10_1,Delta,NA,Oshimili South,NA,NA,Local Authority,Local Authority,NA,NA
+6.10072312586123,5.19420194291105,NGA.10.16_1,NGA,Nigeria,NGA.10_1,Delta,NA,Patani,NA,NA,Local Authority,Local Authority,NA,NA
+5.66245415325954,5.82270553135622,NGA.10.17_1,NGA,Nigeria,NGA.10_1,Delta,NA,Sapele,NA,NA,Local Authority,Local Authority,NA,NA
+5.81426171348524,5.47365769175474,NGA.10.18_1,NGA,Nigeria,NGA.10_1,Delta,NA,Udu,NA,NA,Local Authority,Local Authority,NA,NA
+6.00866987007498,5.48476981458739,NGA.10.19_1,NGA,Nigeria,NGA.10_1,Delta,NA,Ughelli North,NA,NA,Local Authority,Local Authority,NA,NA
+5.8063338669226,5.36634110618989,NGA.10.20_1,NGA,Nigeria,NGA.10_1,Delta,NA,Ughelli South,NA,NA,Local Authority,Local Authority,NA,NA
+6.23436363199564,5.84578756161526,NGA.10.21_1,NGA,Nigeria,NGA.10_1,Delta,NA,Ukwuani,NA,NA,Local Authority,Local Authority,NA,NA
+5.78389294909176,5.56358548910258,NGA.10.22_1,NGA,Nigeria,NGA.10_1,Delta,NA,Uvwie,NA,NA,Local Authority,Local Authority,NA,NA
+5.43060027294482,5.94881697051728,NGA.10.23_1,NGA,Nigeria,NGA.10_1,Delta,NA,Warri North,NA,NA,Local Authority,Local Authority,NA,NA
+5.5769455,5.57138950000012,NGA.10.24_1,NGA,Nigeria,NGA.10_1,Delta,NA,Warri South,NA,NA,Local Authority,Local Authority,NA,NA
+5.2080555,5.65680550000016,NGA.10.25_1,NGA,Nigeria,NGA.10_1,Delta,NA,Warri South-West,NA,NA,Local Authority,Local Authority,NA,NA
+8.21824796148124,6.24413511585316,NGA.11.1_1,NGA,Nigeria,NGA.11_1,Ebonyi,NA,Abakaliki,NA,NA,Local Authority,Local Authority,NA,NA
+7.89920943515921,5.85060378387156,NGA.11.2_1,NGA,Nigeria,NGA.11_1,Ebonyi,NA,Afikpo North,NA,NA,Local Authority,Local Authority,NA,NA
+7.76881196505206,5.82190206467785,NGA.11.3_1,NGA,Nigeria,NGA.11_1,Ebonyi,NA,Afikpo South,NA,NA,Local Authority,Local Authority,NA,NA
+8.12480858137494,6.51915011222333,NGA.11.4_1,NGA,Nigeria,NGA.11_1,Ebonyi,NA,Ebonyi,NA,NA,Local Authority,Local Authority,NA,NA
+7.97519433703778,6.24315109543967,NGA.11.5_1,NGA,Nigeria,NGA.11_1,Ebonyi,NA,Ezza North,NA,NA,Local Authority,Local Authority,NA,NA
+8.01420259133362,6.11082069036482,NGA.11.6_1,NGA,Nigeria,NGA.11_1,Ebonyi,NA,Ezza South,NA,NA,Local Authority,Local Authority,NA,NA
+8.16546749909422,6.07546998570307,NGA.11.7_1,NGA,Nigeria,NGA.11_1,Ebonyi,NA,Ikwo,NA,NA,Local Authority,Local Authority,NA,NA
+7.83036725771824,6.41344960104898,NGA.11.8_1,NGA,Nigeria,NGA.11_1,Ebonyi,NA,Ishielu,NA,NA,Local Authority,Local Authority,NA,NA
+7.63057326037281,5.90555220041186,NGA.11.9_1,NGA,Nigeria,NGA.11_1,Ebonyi,NA,Ivo,NA,NA,Local Authority,Local Authority,NA,NA
+8.27259980613195,6.54971797104951,NGA.11.10_1,NGA,Nigeria,NGA.11_1,Ebonyi,NA,Izzi,NA,NA,Local Authority,Local Authority,NA,NA
+7.79088310104936,5.98820554728021,NGA.11.11_1,NGA,Nigeria,NGA.11_1,Ebonyi,NA,Ohaozara,NA,NA,Local Authority,Local Authority,NA,NA
+8.00003958722095,6.50941274425895,NGA.11.12_1,NGA,Nigeria,NGA.11_1,Ebonyi,NA,Ohaukwu,NA,NA,Local Authority,Local Authority,NA,NA
+7.8129453424613,6.088447001061,NGA.11.13_1,NGA,Nigeria,NGA.11_1,Ebonyi,NA,Onicha,NA,NA,Local Authority,Local Authority,NA,NA
+6.10151582500421,7.33666246646498,NGA.12.1_1,NGA,Nigeria,NGA.12_1,Edo,NA,Akoko-Edo,NA,NA,Local Authority,Local Authority,NA,NA
+5.54632966614216,6.33845079544287,NGA.12.2_1,NGA,Nigeria,NGA.12_1,Edo,NA,Egor,NA,NA,Local Authority,Local Authority,NA,NA
+6.18456165422655,6.69640627157354,NGA.12.3_1,NGA,Nigeria,NGA.12_1,Edo,NA,Esan Central,NA,NA,Local Authority,Local Authority,NA,NA
+6.39779018818849,6.77049630366862,NGA.12.4_1,NGA,Nigeria,NGA.12_1,Edo,NA,Esan North-East,NA,NA,Local Authority,Local Authority,NA,NA
+6.48630137942582,6.57094627739076,NGA.12.5_1,NGA,Nigeria,NGA.12_1,Edo,NA,Esan South-East,NA,NA,Local Authority,Local Authority,NA,NA
+6.11264022418531,6.6466062253215,NGA.12.6_1,NGA,Nigeria,NGA.12_1,Edo,NA,Esan West,NA,NA,Local Authority,Local Authority,NA,NA
+6.50303728717399,6.95920059952882,NGA.12.7_1,NGA,Nigeria,NGA.12_1,Edo,NA,Etsako Central,NA,NA,Local Authority,Local Authority,NA,NA
+6.49601526610936,7.17360349661833,NGA.12.8_1,NGA,Nigeria,NGA.12_1,Edo,NA,Etsako East,NA,NA,Local Authority,Local Authority,NA,NA
+6.27995794467074,6.99086755453729,NGA.12.9_1,NGA,Nigeria,NGA.12_1,Edo,NA,Etsako West,NA,NA,Local Authority,Local Authority,NA,NA
+6.21984735353143,6.49729780959804,NGA.12.10_1,NGA,Nigeria,NGA.12_1,Edo,NA,Igueben,NA,NA,Local Authority,Local Authority,NA,NA
+5.63834652147886,6.19205553795563,NGA.12.11_1,NGA,Nigeria,NGA.12_1,Edo,NA,Ikpoba-Okha,NA,NA,Local Authority,Local Authority,NA,NA
+5.53404068693399,6.21975759068254,NGA.12.12_1,NGA,Nigeria,NGA.12_1,Edo,NA,Oredo,NA,NA,Local Authority,Local Authority,NA,NA
+5.92155738560671,6.07425315608807,NGA.12.13_1,NGA,Nigeria,NGA.12_1,Edo,NA,Orhionmwon,NA,NA,Local Authority,Local Authority,NA,NA
+5.47620864576987,6.38743749854707,NGA.12.14_1,NGA,Nigeria,NGA.12_1,Edo,NA,Ovia North-East,NA,NA,Local Authority,Local Authority,NA,NA
+5.26296249433713,6.45585290683444,NGA.12.15_1,NGA,Nigeria,NGA.12_1,Edo,NA,Ovia South-West,NA,NA,Local Authority,Local Authority,NA,NA
+6.0718140670584,7.01045945575452,NGA.12.16_1,NGA,Nigeria,NGA.12_1,Edo,NA,Owan East,NA,NA,Local Authority,Local Authority,NA,NA
+5.87379085721747,6.91673383897613,NGA.12.17_1,NGA,Nigeria,NGA.12_1,Edo,NA,Owan West,NA,NA,Local Authority,Local Authority,NA,NA
+5.87517548339741,6.51577591993139,NGA.12.18_1,NGA,Nigeria,NGA.12_1,Edo,NA,Uhunmwonde,NA,NA,Local Authority,Local Authority,NA,NA
+5.2710992821141,7.59216850987083,NGA.13.1_1,NGA,Nigeria,NGA.13_1,Ekiti,NA,Ado-Ekiti,NA,NA,Local Authority,Local Authority,NA,NA
+4.95830594230182,7.6595791037065,NGA.13.2_1,NGA,Nigeria,NGA.13_1,Ekiti,NA,Efon,NA,NA,Local Authority,Local Authority,NA,NA
+5.71101718933031,7.73919234297526,NGA.13.3_1,NGA,Nigeria,NGA.13_1,Ekiti,NA,Ekiti East,NA,NA,Local Authority,Local Authority,NA,NA
+5.06521654041798,7.51903662677673,NGA.13.4_1,NGA,Nigeria,NGA.13_1,Ekiti,NA,Ekiti South-West,NA,NA,Local Authority,Local Authority,NA,NA
+5.03891736430695,7.6896805618909,NGA.13.5_1,NGA,Nigeria,NGA.13_1,Ekiti,NA,Ekiti West,NA,NA,Local Authority,Local Authority,NA,NA
+5.49662904982391,7.41804633196955,NGA.13.6_1,NGA,Nigeria,NGA.13_1,Ekiti,NA,Emure/Ise/Orun,Emure,NA,Local Authority,Local Authority,NA,NA
+5.49765230814491,7.60510367958741,NGA.13.7_1,NGA,Nigeria,NGA.13_1,Ekiti,NA,Gboyin,NA,NA,Local Authority,Local Authority,NA,NA
+5.17622014173724,7.8393169709871,NGA.13.8_1,NGA,Nigeria,NGA.13_1,Ekiti,NA,Ido-Osi,NA,NA,Local Authority,Local Authority,NA,NA
+5.04262788224716,7.80160917591058,NGA.13.9_1,NGA,Nigeria,NGA.13_1,Ekiti,NA,Ijero,NA,NA,Local Authority,Local Authority,NA,NA
+5.23176470197024,7.49815845525681,NGA.13.10_1,NGA,Nigeria,NGA.13_1,Ekiti,NA,Ikere,NA,NA,Local Authority,Local Authority,NA,NA
+5.51650346880462,7.85808876704087,NGA.13.11_1,NGA,Nigeria,NGA.13_1,Ekiti,NA,Ikole,NA,NA,Local Authority,Local Authority,NA,NA
+5.20139282748979,7.92737022484619,NGA.13.12_1,NGA,Nigeria,NGA.13_1,Ekiti,NA,Ilejemeje,NA,NA,Local Authority,Local Authority,NA,NA
+5.25300714809525,7.68560322863736,NGA.13.13_1,NGA,Nigeria,NGA.13_1,Ekiti,NA,Irepodun/Ifelodun,NA,NA,Local Authority,Local Authority,NA,NA
+5.38417929699119,7.40842121171631,NGA.13.14_1,NGA,Nigeria,NGA.13_1,Ekiti,NA,Ise/Orun,NA,NA,Local Authority,Local Authority,NA,NA
+5.12397070668536,7.9739489865137,NGA.13.15_1,NGA,Nigeria,NGA.13_1,Ekiti,NA,Moba,NA,NA,Local Authority,Local Authority,NA,NA
+5.3335035798404,7.86691053916489,NGA.13.16_1,NGA,Nigeria,NGA.13_1,Ekiti,NA,Oye,NA,NA,Local Authority,Local Authority,NA,NA
+7.57442634850926,6.03052130922899,NGA.14.1_1,NGA,Nigeria,NGA.14_1,Enugu,NA,Aninri,NA,NA,Local Authority,Local Authority,NA,NA
+7.44585046680089,6.16602884639585,NGA.14.2_1,NGA,Nigeria,NGA.14_1,Enugu,NA,Awgu,NA,NA,Local Authority,Local Authority,NA,NA
+7.53730630224179,6.56105856432407,NGA.14.3_1,NGA,Nigeria,NGA.14_1,Enugu,NA,Enugu East,NA,NA,Local Authority,Local Authority,NA,NA
+7.52903592348203,6.43640515042721,NGA.14.4_1,NGA,Nigeria,NGA.14_1,Enugu,NA,Enugu North,NA,NA,Local Authority,Local Authority,NA,NA
+7.51461643185089,6.39076303874175,NGA.14.5_1,NGA,Nigeria,NGA.14_1,Enugu,NA,Enugu South,NA,NA,Local Authority,Local Authority,NA,NA
+7.22446919957159,6.40283990599807,NGA.14.6_1,NGA,Nigeria,NGA.14_1,Enugu,NA,Ezeagu,NA,NA,Local Authority,Local Authority,NA,NA
+7.38994871860051,6.67860524932616,NGA.14.7_1,NGA,Nigeria,NGA.14_1,Enugu,NA,Igbo-Etiti,NA,NA,Local Authority,Local Authority,NA,NA
+7.43688195367314,7.00984653826019,NGA.14.8_1,NGA,Nigeria,NGA.14_1,Enugu,NA,Igbo-eze North,NA,NA,Local Authority,Local Authority,NA,NA
+7.33446159470783,6.96286379221967,NGA.14.9_1,NGA,Nigeria,NGA.14_1,Enugu,NA,Igbo-eze South,NA,NA,Local Authority,Local Authority,NA,NA
+7.66789652004128,6.74028304737127,NGA.14.10_1,NGA,Nigeria,NGA.14_1,Enugu,NA,Isi-Uzo,NA,NA,Local Authority,Local Authority,NA,NA
+7.64632334304113,6.30429321015486,NGA.14.11_1,NGA,Nigeria,NGA.14_1,Enugu,NA,Nkanu East,NA,NA,Local Authority,Local Authority,NA,NA
+7.50867976682818,6.32133350643192,NGA.14.12_1,NGA,Nigeria,NGA.14_1,Enugu,NA,Nkanu West,NA,NA,Local Authority,Local Authority,NA,NA
+7.34107110264501,6.86849252422108,NGA.14.13_1,NGA,Nigeria,NGA.14_1,Enugu,NA,Nsukka,NA,NA,Local Authority,Local Authority,NA,NA
+7.28227176586952,6.15504215567547,NGA.14.14_1,NGA,Nigeria,NGA.14_1,Enugu,NA,Oji-River,NA,NA,Local Authority,Local Authority,NA,NA
+7.54030714926296,6.86957399535811,NGA.14.15_1,NGA,Nigeria,NGA.14_1,Enugu,NA,Udenu,NA,NA,Local Authority,Local Authority,NA,NA
+7.37649523060389,6.42917931745279,NGA.14.16_1,NGA,Nigeria,NGA.14_1,Enugu,NA,Udi,NA,NA,Local Authority,Local Authority,NA,NA
+7.16144216148912,6.68582032804736,NGA.14.17_1,NGA,Nigeria,NGA.14_1,Enugu,NA,Uzo-Uwani,NA,NA,Local Authority,Local Authority,NA,NA
+6.79092703695022,8.81491657088062,NGA.15.1_1,NGA,Nigeria,NGA.15_1,Federal Capital Territory,NA,Abaji,NA,NA,Local Authority,Local Authority,NA,NA
+7.33557031707486,8.89082764249214,NGA.15.2_1,NGA,Nigeria,NGA.15_1,Federal Capital Territory,NA,Abuja,Abuja Municipal,NA,Local Authority,Local Authority,NA,NA
+7.40712642083618,9.19713178940293,NGA.15.3_1,NGA,Nigeria,NGA.15_1,Federal Capital Territory,NA,Bwari,NA,NA,Local Authority,Local Authority,NA,NA
+7.00659017407809,9.0625291993952,NGA.15.4_1,NGA,Nigeria,NGA.15_1,Federal Capital Territory,NA,Gwagwalada,NA,NA,Local Authority,Local Authority,NA,NA
+7.26319981807677,8.6523131699879,NGA.15.5_1,NGA,Nigeria,NGA.15_1,Federal Capital Territory,NA,Kuje,NA,NA,Local Authority,Local Authority,NA,NA
+6.93611673223081,8.71091218602295,NGA.15.6_1,NGA,Nigeria,NGA.15_1,Federal Capital Territory,NA,Kwali,NA,NA,Local Authority,Local Authority,NA,NA
+11.0594332016639,10.1286691698232,NGA.16.1_1,NGA,Nigeria,NGA.16_1,Gombe,NA,Akko,NA,NA,Local Authority,Local Authority,NA,NA
+11.8272926370643,9.84509016673748,NGA.16.2_1,NGA,Nigeria,NGA.16_1,Gombe,NA,Balanga,NA,NA,Local Authority,Local Authority,NA,NA
+11.1875965196996,9.88129213422545,NGA.16.3_1,NGA,Nigeria,NGA.16_1,Gombe,NA,Billiri,NA,NA,Local Authority,Local Authority,NA,NA
+10.8985598342377,10.8283345711009,NGA.16.4_1,NGA,Nigeria,NGA.16_1,Gombe,NA,Dukku,NA,NA,Local Authority,Local Authority,NA,NA
+11.39320963626,10.8243002609175,NGA.16.5_1,NGA,Nigeria,NGA.16_1,Gombe,NA,Funakaye,NA,NA,Local Authority,Local Authority,NA,NA
+11.2359799162511,10.313281721637,NGA.16.6_1,NGA,Nigeria,NGA.16_1,Gombe,NA,Gombe,NA,NA,Local Authority,Local Authority,NA,NA
+11.4979501004944,9.89000225235915,NGA.16.7_1,NGA,Nigeria,NGA.16_1,Gombe,NA,Kaltungo,NA,NA,Local Authority,Local Authority,NA,NA
+11.2397765762799,10.5136005350688,NGA.16.8_1,NGA,Nigeria,NGA.16_1,Gombe,NA,Kwami,NA,NA,Local Authority,Local Authority,NA,NA
+11.2501273127958,11.084511942806,NGA.16.9_1,NGA,Nigeria,NGA.16_1,Gombe,NA,Nafada,NA,NA,Local Authority,Local Authority,NA,NA
+11.2553376327018,9.71602484642155,NGA.16.10_1,NGA,Nigeria,NGA.16_1,Gombe,NA,Shomgom,NA,NA,Local Authority,Local Authority,NA,NA
+11.4523798024775,10.3175435910049,NGA.16.11_1,NGA,Nigeria,NGA.16_1,Gombe,NA,Yamaltu/Deba,NA,NA,Local Authority,Local Authority,NA,NA
+7.2653667498352,5.41036710937894,NGA.17.1_1,NGA,Nigeria,NGA.17_1,Imo,NA,Aboh-Mbaise,NA,NA,Local Authority,Local Authority,NA,NA
+7.2698750388328,5.55013392419804,NGA.17.2_1,NGA,Nigeria,NGA.17_1,Imo,NA,Ahiazu-Mbaise,NA,NA,Local Authority,Local Authority,NA,NA
+7.31814994417917,5.67176533549681,NGA.17.3_1,NGA,Nigeria,NGA.17_1,Imo,NA,Ehime-Mbano,NA,NA,Local Authority,Local Authority,NA,NA
+7.32092894803287,5.46258688376883,NGA.17.4_1,NGA,Nigeria,NGA.17_1,Imo,NA,Ezinihitte Mbaise,NA,NA,Local Authority,Local Authority,NA,NA
+7.15763734782163,5.84752426072739,NGA.17.6_1,NGA,Nigeria,NGA.17_1,Imo,NA,Ideato North,NA,NA,Local Authority,Local Authority,NA,NA
+7.15822174119116,5.78388262191412,NGA.17.5_1,NGA,Nigeria,NGA.17_1,Imo,NA,Ideato South,NA,NA,Local Authority,Local Authority,NA,NA
+7.37586902288893,5.6345752522331,NGA.17.7_1,NGA,Nigeria,NGA.17_1,Imo,NA,Ihitte/Uboma,NA,NA,Local Authority,Local Authority,NA,NA
+7.16083366640785,5.54817618220619,NGA.17.8_1,NGA,Nigeria,NGA.17_1,Imo,NA,Ikeduru,NA,NA,Local Authority,Local Authority,NA,NA
+7.1944838874782,5.66834597796555,NGA.17.9_1,NGA,Nigeria,NGA.17_1,Imo,NA,Isiala Mbano,NA,NA,Local Authority,Local Authority,NA,NA
+7.06910912737449,5.67681194232604,NGA.17.10_1,NGA,Nigeria,NGA.17_1,Imo,NA,Isu,NA,NA,Local Authority,Local Authority,NA,NA
+7.03701552185408,5.58235371481407,NGA.17.11_1,NGA,Nigeria,NGA.17_1,Imo,NA,Mbatoli,NA,NA,Local Authority,Local Authority,NA,NA
+7.16295093034162,5.31428278568566,NGA.17.12_1,NGA,Nigeria,NGA.17_1,Imo,NA,Ngor-Okpala,NA,NA,Local Authority,Local Authority,NA,NA
+7.02285757441149,5.69960625737943,NGA.17.13_1,NGA,Nigeria,NGA.17_1,Imo,NA,Njaba,NA,NA,Local Authority,Local Authority,NA,NA
+7.11894545228832,5.73236411562306,NGA.17.14_1,NGA,Nigeria,NGA.17_1,Imo,NA,Nkwerre,NA,NA,Local Authority,Local Authority,NA,NA
+7.13477377578423,5.70206927668352,NGA.17.15_1,NGA,Nigeria,NGA.17_1,Imo,NA,Nwangele,NA,NA,Local Authority,Local Authority,NA,NA
+7.35686656968687,5.54152508161503,NGA.17.16_1,NGA,Nigeria,NGA.17_1,Imo,NA,Obowo,NA,NA,Local Authority,Local Authority,NA,NA
+6.78473001280867,5.65021513408036,NGA.17.17_1,NGA,Nigeria,NGA.17_1,Imo,NA,Oguta,NA,NA,Local Authority,Local Authority,NA,NA
+6.84032671745385,5.40434509797026,NGA.17.18_1,NGA,Nigeria,NGA.17_1,Imo,NA,Ohaji/Egbema,NA,NA,Local Authority,Local Authority,NA,NA
+7.32800759660305,5.80762807803458,NGA.17.19_1,NGA,Nigeria,NGA.17_1,Imo,NA,Okigwe,NA,NA,Local Authority,Local Authority,NA,NA
+7.05694493804982,5.80875181098098,NGA.17.20_1,NGA,Nigeria,NGA.17_1,Imo,NA,Orlu,NA,NA,Local Authority,Local Authority,NA,NA
+6.98731929361227,5.86283489668579,NGA.17.21_1,NGA,Nigeria,NGA.17_1,Imo,NA,Orsu,NA,NA,Local Authority,Local Authority,NA,NA
+6.96518380071926,5.71579137826145,NGA.17.22_1,NGA,Nigeria,NGA.17_1,Imo,NA,Oru East,NA,NA,Local Authority,Local Authority,NA,NA
+6.92102547694439,5.75464736318618,NGA.17.23_1,NGA,Nigeria,NGA.17_1,Imo,NA,Oru West,NA,NA,Local Authority,Local Authority,NA,NA
+7.03861550194597,5.48356427787029,NGA.17.24_1,NGA,Nigeria,NGA.17_1,Imo,NA,Owerri Municipal,NA,NA,Local Authority,Local Authority,NA,NA
+7.11729087750277,5.43223096247097,NGA.17.25_1,NGA,Nigeria,NGA.17_1,Imo,NA,Owerri North,NA,NA,Local Authority,Local Authority,NA,NA
+6.99612902391885,5.40434391445422,NGA.17.26_1,NGA,Nigeria,NGA.17_1,Imo,NA,Owerri West,NA,NA,Local Authority,Local Authority,NA,NA
+7.24058022456145,5.7833742041387,NGA.17.27_1,NGA,Nigeria,NGA.17_1,Imo,NA,Unuimo,NA,NA,Local Authority,Local Authority,NA,NA
+9.92897667568553,12.3176950781326,NGA.18.1_1,NGA,Nigeria,NGA.18_1,Jigawa,NA,Auyo,NA,NA,Local Authority,Local Authority,NA,NA
+8.84186715701997,12.6136195318523,NGA.18.2_1,NGA,Nigeria,NGA.18_1,Jigawa,NA,Babura,NA,NA,Local Authority,Local Authority,NA,NA
+10.0127203950204,12.7899265889416,NGA.18.3_1,NGA,Nigeria,NGA.18_1,Jigawa,NA,Biriniwa,NA,NA,Local Authority,Local Authority,NA,NA
+9.46438594381064,11.4708796056943,NGA.18.4_1,NGA,Nigeria,NGA.18_1,Jigawa,NA,Birnin Kudu,NA,NA,Local Authority,Local Authority,NA,NA
+9.73164364280176,11.5405090142472,NGA.18.5_1,NGA,Nigeria,NGA.18_1,Jigawa,NA,Buji,NA,NA,Local Authority,Local Authority,NA,NA
+9.26469849839401,11.7777754306768,NGA.18.6_1,NGA,Nigeria,NGA.18_1,Jigawa,NA,Dutse,NA,NA,Local Authority,Local Authority,NA,NA
+9.52835346192895,12.4595914791089,NGA.18.7_1,NGA,Nigeria,NGA.18_1,Jigawa,NA,Gagarawa,NA,NA,Local Authority,Local Authority,NA,NA
+9.03662280077997,12.4113291940825,NGA.18.8_1,NGA,Nigeria,NGA.18_1,Jigawa,NA,Garki,NA,NA,Local Authority,Local Authority,NA,NA
+9.35945252075886,12.5887822228613,NGA.18.9_1,NGA,Nigeria,NGA.18_1,Jigawa,NA,Gumel,NA,NA,Local Authority,Local Authority,NA,NA
+10.4607131486002,12.6105392986251,NGA.18.10_1,NGA,Nigeria,NGA.18_1,Jigawa,NA,Guri,NA,NA,Local Authority,Local Authority,NA,NA
+10.0614960914937,11.2017178923987,NGA.18.11_1,NGA,Nigeria,NGA.18_1,Jigawa,NA,Gwaram,NA,NA,Local Authority,Local Authority,NA,NA
+8.24437553044461,12.7222095126386,NGA.18.12_1,NGA,Nigeria,NGA.18_1,Jigawa,NA,Gwiwa,NA,NA,Local Authority,Local Authority,NA,NA
+10.032600181837,12.4248050501307,NGA.18.13_1,NGA,Nigeria,NGA.18_1,Jigawa,NA,Hadejia,NA,NA,Local Authority,Local Authority,NA,NA
+9.55153950978402,12.0339892107198,NGA.18.14_1,NGA,Nigeria,NGA.18_1,Jigawa,NA,Jahun,NA,NA,Local Authority,Local Authority,NA,NA
+9.9998114333297,12.1365964327547,NGA.18.15_1,NGA,Nigeria,NGA.18_1,Jigawa,NA,Kafin Hausa,NA,NA,Local Authority,Local Authority,NA,NA
+9.77709058348492,12.5463642401057,NGA.18.16_1,NGA,Nigeria,NGA.18_1,Jigawa,NA,Kaugama,NA,NA,Local Authority,Local Authority,NA,NA
+8.42876129926523,12.6313300293273,NGA.18.17_1,NGA,Nigeria,NGA.18_1,Jigawa,NA,Kazaure,NA,NA,Local Authority,Local Authority,NA,NA
+10.2554784237141,12.5644173064615,NGA.18.18_1,NGA,Nigeria,NGA.18_1,Jigawa,NA,Kiri Kasama,NA,NA,Local Authority,Local Authority,NA,NA
+9.50965473767901,11.7739519896172,NGA.18.19_1,NGA,Nigeria,NGA.18_1,Jigawa,NA,Kiyawa,NA,NA,Local Authority,Local Authority,NA,NA
+9.51111713323387,12.6790363927288,NGA.18.20_1,NGA,Nigeria,NGA.18_1,Jigawa,NA,Maigatari,NA,NA,Local Authority,Local Authority,NA,NA
+9.95559272738783,12.5200770399269,NGA.18.21_1,NGA,Nigeria,NGA.18_1,Jigawa,NA,Malam Maduri,NA,NA,Local Authority,Local Authority,NA,NA
+9.6738073060697,12.1924793460443,NGA.18.22_1,NGA,Nigeria,NGA.18_1,Jigawa,NA,Miga,NA,NA,Local Authority,Local Authority,NA,NA
+9.12231548422952,12.1235256271362,NGA.18.23_1,NGA,Nigeria,NGA.18_1,Jigawa,NA,Ringim,NA,NA,Local Authority,Local Authority,NA,NA
+8.36791559675398,12.546646345495,NGA.18.24_1,NGA,Nigeria,NGA.18_1,Jigawa,NA,Roni,NA,NA,Local Authority,Local Authority,NA,NA
+9.12977245387894,12.6025927140125,NGA.18.25_1,NGA,Nigeria,NGA.18_1,Jigawa,NA,Sule Tankarkar,NA,NA,Local Authority,Local Authority,NA,NA
+9.31653462986863,12.2334528618195,NGA.18.26_1,NGA,Nigeria,NGA.18_1,Jigawa,NA,Taura,NA,NA,Local Authority,Local Authority,NA,NA
+8.4790958976592,12.7265627906176,NGA.18.27_1,NGA,Nigeria,NGA.18_1,Jigawa,NA,Yankwashi,NA,NA,Local Authority,Local Authority,NA,NA
+6.65008573206974,10.851367563733,NGA.19.1_1,NGA,Nigeria,NGA.19_1,Kaduna,NA,Birnin Gwari,NA,NA,Local Authority,Local Authority,NA,NA
+7.52750545661183,10.4098819566184,NGA.19.2_1,NGA,Nigeria,NGA.19_1,Kaduna,NA,Chikun,NA,NA,Local Authority,Local Authority,NA,NA
+7.42263800039999,11.0907064826793,NGA.19.3_1,NGA,Nigeria,NGA.19_1,Kaduna,NA,Giwa,NA,NA,Local Authority,Local Authority,NA,NA
+7.52011195870322,10.6933844458204,NGA.19.4_1,NGA,Nigeria,NGA.19_1,Kaduna,NA,Igabi,NA,NA,Local Authority,Local Authority,NA,NA
+8.16202630938626,11.290898075148,NGA.19.5_1,NGA,Nigeria,NGA.19_1,Kaduna,NA,Ikara,NA,NA,Local Authority,Local Authority,NA,NA
+8.02118960283345,9.45571079150893,NGA.19.6_1,NGA,Nigeria,NGA.19_1,Kaduna,NA,Jaba,NA,NA,Local Authority,Local Authority,NA,NA
+8.20321665217816,9.28453784211515,NGA.19.7_1,NGA,Nigeria,NGA.19_1,Kaduna,NA,Jema'a,NA,NA,Local Authority,Local Authority,NA,NA
+7.63920633520101,9.83060799354824,NGA.19.8_1,NGA,Nigeria,NGA.19_1,Kaduna,NA,Kachia,NA,NA,Local Authority,Local Authority,NA,NA
+7.4487577264195,10.5543432550123,NGA.19.9_1,NGA,Nigeria,NGA.19_1,Kaduna,NA,Kaduna North,NA,NA,Local Authority,Local Authority,NA,NA
+7.41623059863137,10.4833466755798,NGA.19.10_1,NGA,Nigeria,NGA.19_1,Kaduna,NA,Kaduna South,NA,NA,Local Authority,Local Authority,NA,NA
+7.58337169915699,9.45209311496903,NGA.19.11_1,NGA,Nigeria,NGA.19_1,Kaduna,NA,Kagarko,NA,NA,Local Authority,Local Authority,NA,NA
+7.86235775900566,10.271151363667,NGA.19.12_1,NGA,Nigeria,NGA.19_1,Kaduna,NA,Kajuru,NA,NA,Local Authority,Local Authority,NA,NA
+8.44529839987805,9.59501667881572,NGA.19.13_1,NGA,Nigeria,NGA.19_1,Kaduna,NA,Kaura,NA,NA,Local Authority,Local Authority,NA,NA
+8.30933389688709,10.1912750827446,NGA.19.14_1,NGA,Nigeria,NGA.19_1,Kaduna,NA,Kauru,NA,NA,Local Authority,Local Authority,NA,NA
+8.37224348969372,10.8594173461902,NGA.19.15_1,NGA,Nigeria,NGA.19_1,Kaduna,NA,Kubau,NA,NA,Local Authority,Local Authority,NA,NA
+7.76250342763001,11.2436686439859,NGA.19.16_1,NGA,Nigeria,NGA.19_1,Kaduna,NA,Kudan,NA,NA,Local Authority,Local Authority,NA,NA
+8.55773408995358,10.2995539187479,NGA.19.17_1,NGA,Nigeria,NGA.19_1,Kaduna,NA,Lere,NA,NA,Local Authority,Local Authority,NA,NA
+7.95409191878519,11.3245197082329,NGA.19.18_1,NGA,Nigeria,NGA.19_1,Kaduna,NA,Makarfi,NA,NA,Local Authority,Local Authority,NA,NA
+7.6865804896562,11.1583658180805,NGA.19.19_1,NGA,Nigeria,NGA.19_1,Kaduna,NA,Sabon Gari,NA,NA,Local Authority,Local Authority,NA,NA
+8.4581254961545,9.23009960196515,NGA.19.20_1,NGA,Nigeria,NGA.19_1,Kaduna,NA,Sanga,NA,NA,Local Authority,Local Authority,NA,NA
+8.04280900615548,10.925955031327,NGA.19.21_1,NGA,Nigeria,NGA.19_1,Kaduna,NA,Soba,NA,NA,Local Authority,Local Authority,NA,NA
+8.24838984896669,9.81020109457712,NGA.19.22_1,NGA,Nigeria,NGA.19_1,Kaduna,NA,Zangon Kataf,NA,NA,Local Authority,Local Authority,NA,NA
+7.71810218510554,11.0414363790102,NGA.19.23_1,NGA,Nigeria,NGA.19_1,Kaduna,NA,Zaria,NA,NA,Local Authority,Local Authority,NA,NA
+9.01921452428186,11.9541680345624,NGA.20.1_1,NGA,Nigeria,NGA.20_1,Kano,NA,Ajingi,NA,NA,Local Authority,Local Authority,NA,NA
+9.08192816565027,11.6246815187273,NGA.20.2_1,NGA,Nigeria,NGA.20_1,Kano,NA,Albasu,NA,NA,Local Authority,Local Authority,NA,NA
+8.10804490650517,12.0755819387946,NGA.20.3_1,NGA,Nigeria,NGA.20_1,Kano,NA,Bagwai,NA,NA,Local Authority,Local Authority,NA,NA
+8.29687722798558,11.5179795969801,NGA.20.4_1,NGA,Nigeria,NGA.20_1,Kano,NA,Bebeji,NA,NA,Local Authority,Local Authority,NA,NA
+8.27265230163127,12.2364149157565,NGA.20.5_1,NGA,Nigeria,NGA.20_1,Kano,NA,Bichi,NA,NA,Local Authority,Local Authority,NA,NA
+8.52540916510314,11.6629274254816,NGA.20.6_1,NGA,Nigeria,NGA.20_1,Kano,NA,Bunkure,NA,NA,Local Authority,Local Authority,NA,NA
+8.46395636810055,12.0026058970111,NGA.20.7_1,NGA,Nigeria,NGA.20_1,Kano,NA,Dala,NA,NA,Local Authority,Local Authority,NA,NA
+8.61143850440856,12.4044737808194,NGA.20.8_1,NGA,Nigeria,NGA.20_1,Kano,NA,Dambatta,NA,NA,Local Authority,Local Authority,NA,NA
+8.69412838807053,11.7838080622973,NGA.20.9_1,NGA,Nigeria,NGA.20_1,Kano,NA,Dawakin Kudu,NA,NA,Local Authority,Local Authority,NA,NA
+8.33923549103348,12.1132819002387,NGA.20.10_1,NGA,Nigeria,NGA.20_1,Kano,NA,Dawakin Tofa,NA,NA,Local Authority,Local Authority,NA,NA
+8.63867948862908,10.8832218015708,NGA.20.11_1,NGA,Nigeria,NGA.20_1,Kano,NA,Doguwa,NA,NA,Local Authority,Local Authority,NA,NA
+8.55386047865591,11.9826035424524,NGA.20.12_1,NGA,Nigeria,NGA.20_1,Kano,NA,Fagge,NA,NA,Local Authority,Local Authority,NA,NA
+8.85385743834358,12.124464723695,NGA.20.13_1,NGA,Nigeria,NGA.20_1,Kano,NA,Gabasawa,NA,NA,Local Authority,Local Authority,NA,NA
+8.79095676467858,11.5415697901002,NGA.20.14_1,NGA,Nigeria,NGA.20_1,Kano,NA,Garko,NA,NA,Local Authority,Local Authority,NA,NA
+8.35716747635972,11.6489697999116,NGA.20.15_1,NGA,Nigeria,NGA.20_1,Kano,NA,Garum Mallam,NA,NA,Local Authority,Local Authority,NA,NA
+8.99559322359877,11.7750300294428,NGA.20.16_1,NGA,Nigeria,NGA.20_1,Kano,NA,Gaya,NA,NA,Local Authority,Local Authority,NA,NA
+8.71818072769329,12.0478023259191,NGA.20.17_1,NGA,Nigeria,NGA.20_1,Kano,NA,Gezawa,NA,NA,Local Authority,Local Authority,NA,NA
+8.46815811103691,11.9691121302716,NGA.20.18_1,NGA,Nigeria,NGA.20_1,Kano,NA,Gwale,NA,NA,Local Authority,Local Authority,NA,NA
+7.95749445116131,11.8815303484578,NGA.20.19_1,NGA,Nigeria,NGA.20_1,Kano,NA,Gwarzo,NA,NA,Local Authority,Local Authority,NA,NA
+8.17012853563787,11.8675277135809,NGA.20.20_1,NGA,Nigeria,NGA.20_1,Kano,NA,Kabo,NA,NA,Local Authority,Local Authority,NA,NA
+8.47309861720687,11.9429817432884,NGA.20.21_1,NGA,Nigeria,NGA.20_1,Kano,NA,Kano,NA,NA,Local Authority,Local Authority,NA,NA
+7.97686493900475,11.758086405511,NGA.20.22_1,NGA,Nigeria,NGA.20_1,Kano,NA,Karaye,NA,NA,Local Authority,Local Authority,NA,NA
+8.64054943817695,11.4763835052621,NGA.20.23_1,NGA,Nigeria,NGA.20_1,Kano,NA,Kibiya,NA,NA,Local Authority,Local Authority,NA,NA
+8.09101439416695,11.5469578481497,NGA.20.24_1,NGA,Nigeria,NGA.20_1,Kano,NA,Kiru,NA,NA,Local Authority,Local Authority,NA,NA
+8.49898556858211,11.9108668584292,NGA.20.25_1,NGA,Nigeria,NGA.20_1,Kano,NA,Kumbotso,NA,NA,Local Authority,Local Authority,NA,NA
+8.24940184639806,12.4170031666388,NGA.20.26_1,NGA,Nigeria,NGA.20_1,Kano,NA,Kunchi,NA,NA,Local Authority,Local Authority,NA,NA
+8.45323045125059,11.7673463359964,NGA.20.27_1,NGA,Nigeria,NGA.20_1,Kano,NA,Kura,NA,NA,Local Authority,Local Authority,NA,NA
+8.33652994552513,11.8112662706952,NGA.20.28_1,NGA,Nigeria,NGA.20_1,Kano,NA,Madobi,NA,NA,Local Authority,Local Authority,NA,NA
+8.41976074170798,12.3984806105384,NGA.20.29_1,NGA,Nigeria,NGA.20_1,Kano,NA,Makoda,NA,NA,Local Authority,Local Authority,NA,NA
+8.59456634661585,12.1819299787212,NGA.20.30_1,NGA,Nigeria,NGA.20_1,Kano,NA,Minjibir,NA,NA,Local Authority,Local Authority,NA,NA
+8.51256470681943,12.0099281942731,NGA.20.31_1,NGA,Nigeria,NGA.20_1,Kano,NA,Nasarawa,Nassarawa,NA,Local Authority,Local Authority,NA,NA
+8.48051135771681,11.4627493567527,NGA.20.32_1,NGA,Nigeria,NGA.20_1,Kano,NA,Rano,NA,NA,Local Authority,Local Authority,NA,NA
+8.28396040845165,11.9175597381388,NGA.20.33_1,NGA,Nigeria,NGA.20_1,Kano,NA,Rimin Gado,NA,NA,Local Authority,Local Authority,NA,NA
+7.86135289668479,11.5020058649075,NGA.20.34_1,NGA,Nigeria,NGA.20_1,Kano,NA,Rogo,NA,NA,Local Authority,Local Authority,NA,NA
+7.91782391950783,12.1080602904815,NGA.20.35_1,NGA,Nigeria,NGA.20_1,Kano,NA,Shanono,NA,NA,Local Authority,Local Authority,NA,NA
+8.91194800973445,11.3239597520884,NGA.20.36_1,NGA,Nigeria,NGA.20_1,Kano,NA,Sumaila,NA,NA,Local Authority,Local Authority,NA,NA
+9.12573318422234,11.4549785718196,NGA.20.37_1,NGA,Nigeria,NGA.20_1,Kano,NA,Takai,NA,NA,Local Authority,Local Authority,NA,NA
+8.53519939716751,11.9567970915665,NGA.20.38_1,NGA,Nigeria,NGA.20_1,Kano,NA,Tarauni,NA,NA,Local Authority,Local Authority,NA,NA
+8.31012832247247,12.0033754643684,NGA.20.39_1,NGA,Nigeria,NGA.20_1,Kano,NA,Tofa,NA,NA,Local Authority,Local Authority,NA,NA
+7.97833353458937,12.2547330192456,NGA.20.40_1,NGA,Nigeria,NGA.20_1,Kano,NA,Tsanyawa,NA,NA,Local Authority,Local Authority,NA,NA
+8.47799365560292,11.2090340161371,NGA.20.41_1,NGA,Nigeria,NGA.20_1,Kano,NA,Tudun Wada,NA,NA,Local Authority,Local Authority,NA,NA
+8.51765662722961,12.0362818611486,NGA.20.42_1,NGA,Nigeria,NGA.20_1,Kano,NA,Ungogo,NA,NA,Local Authority,Local Authority,NA,NA
+8.73695395222328,11.8858927931406,NGA.20.43_1,NGA,Nigeria,NGA.20_1,Kano,NA,Warawa,NA,NA,Local Authority,Local Authority,NA,NA
+8.81702930439127,11.7559100329554,NGA.20.44_1,NGA,Nigeria,NGA.20_1,Kano,NA,Wudil,NA,NA,Local Authority,Local Authority,NA,NA
+7.4380517716088,11.599821511087,NGA.21.1_1,NGA,Nigeria,NGA.21_1,Katsina,NA,Bakori,NA,NA,Local Authority,Local Authority,NA,NA
+7.46065176645134,12.8610186674635,NGA.21.2_1,NGA,Nigeria,NGA.21_1,Katsina,NA,Batagarawa,NA,NA,Local Authority,Local Authority,NA,NA
+7.26618387949546,12.813651318709,NGA.21.3_1,NGA,Nigeria,NGA.21_1,Katsina,NA,Batsari,NA,NA,Local Authority,Local Authority,NA,NA
+8.74788179305821,12.7979191719274,NGA.21.4_1,NGA,Nigeria,NGA.21_1,Katsina,NA,Baure,NA,NA,Local Authority,Local Authority,NA,NA
+7.82072931564397,12.6921465839557,NGA.21.5_1,NGA,Nigeria,NGA.21_1,Katsina,NA,Bindawa,NA,NA,Local Authority,Local Authority,NA,NA
+7.6837779060942,12.5643115502354,NGA.21.6_1,NGA,Nigeria,NGA.21_1,Katsina,NA,Charanchi,NA,NA,Local Authority,Local Authority,NA,NA
+7.19850167367785,11.3833491928854,NGA.21.7_1,NGA,Nigeria,NGA.21_1,Katsina,NA,Dandume,NA,NA,Local Authority,Local Authority,NA,NA
+7.50487922477203,11.39448312416,NGA.21.8_1,NGA,Nigeria,NGA.21_1,Katsina,NA,Danja,NA,NA,Local Authority,Local Authority,NA,NA
+7.34615534637327,12.2097331197561,NGA.21.9_1,NGA,Nigeria,NGA.21_1,Katsina,NA,Danmusa,NA,NA,Local Authority,Local Authority,NA,NA
+8.24517209005551,12.98207615988,NGA.21.10_1,NGA,Nigeria,NGA.21_1,Katsina,NA,Daura,NA,NA,Local Authority,Local Authority,NA,NA
+8.14296689251353,12.9122787604472,NGA.21.11_1,NGA,Nigeria,NGA.21_1,Katsina,NA,Dutsi,NA,NA,Local Authority,Local Authority,NA,NA
+7.52568187841872,12.4076673532,NGA.21.12_1,NGA,Nigeria,NGA.21_1,Katsina,NA,Dutsinma,NA,NA,Local Authority,Local Authority,NA,NA
+7.10814796006117,11.6423563218622,NGA.21.13_1,NGA,Nigeria,NGA.21_1,Katsina,NA,Faskari,NA,NA,Local Authority,Local Authority,NA,NA
+7.3256006382415,11.4148451129816,NGA.21.14_1,NGA,Nigeria,NGA.21_1,Katsina,NA,Funtua,NA,NA,Local Authority,Local Authority,NA,NA
+8.11318256717189,12.5896646045632,NGA.21.15_1,NGA,Nigeria,NGA.21_1,Katsina,NA,Ingawa,NA,NA,Local Authority,Local Authority,NA,NA
+7.43072961555463,12.975434618104,NGA.21.16_1,NGA,Nigeria,NGA.21_1,Katsina,NA,Jibia,NA,NA,Local Authority,Local Authority,NA,NA
+7.67993931755889,11.6280137389318,NGA.21.17_1,NGA,Nigeria,NGA.21_1,Katsina,NA,Kafur,NA,NA,Local Authority,Local Authority,NA,NA
+7.71541835926902,13.1707794169234,NGA.21.18_1,NGA,Nigeria,NGA.21_1,Katsina,NA,Kaita,NA,NA,Local Authority,Local Authority,NA,NA
+7.36407798251579,11.9444947887741,NGA.21.19_1,NGA,Nigeria,NGA.21_1,Katsina,NA,Kankara,NA,NA,Local Authority,Local Authority,NA,NA
+7.79204677987691,12.4328334185268,NGA.21.20_1,NGA,Nigeria,NGA.21_1,Katsina,NA,Kankia,NA,NA,Local Authority,Local Authority,NA,NA
+7.61263657971254,12.9975874365882,NGA.21.21_1,NGA,Nigeria,NGA.21_1,Katsina,NA,Katsina,NA,NA,Local Authority,Local Authority,NA,NA
+7.4569950875299,12.7043311044361,NGA.21.22_1,NGA,Nigeria,NGA.21_1,Katsina,NA,Kurfi,NA,NA,Local Authority,Local Authority,NA,NA
+7.97254925839746,12.4410483415182,NGA.21.23_1,NGA,Nigeria,NGA.21_1,Katsina,NA,Kusada,NA,NA,Local Authority,Local Authority,NA,NA
+8.20746549363204,13.1405369220805,NGA.21.24_1,NGA,Nigeria,NGA.21_1,Katsina,NA,Mai'Adua,NA,NA,Local Authority,Local Authority,NA,NA
+7.64894928610924,11.8184629346866,NGA.21.25_1,NGA,Nigeria,NGA.21_1,Katsina,NA,Malumfashi,NA,NA,Local Authority,Local Authority,NA,NA
+7.93082372494266,12.9031003323658,NGA.21.26_1,NGA,Nigeria,NGA.21_1,Katsina,NA,Mani,NA,NA,Local Authority,Local Authority,NA,NA
+7.985199491426,13.1211651635552,NGA.21.27_1,NGA,Nigeria,NGA.21_1,Katsina,NA,Mashi,NA,NA,Local Authority,Local Authority,NA,NA
+7.64067102290075,12.2418085212402,NGA.21.28_1,NGA,Nigeria,NGA.21_1,Katsina,NA,Matazu,NA,NA,Local Authority,Local Authority,NA,NA
+7.65880737180955,12.0951393915873,NGA.21.29_1,NGA,Nigeria,NGA.21_1,Katsina,NA,Musawa,NA,NA,Local Authority,Local Authority,NA,NA
+7.70074223165172,12.8595870084362,NGA.21.30_1,NGA,Nigeria,NGA.21_1,Katsina,NA,Rimi,NA,NA,Local Authority,Local Authority,NA,NA
+7.12096702998602,11.2891551453422,NGA.21.31_1,NGA,Nigeria,NGA.21_1,Katsina,NA,Sabuwa,NA,NA,Local Authority,Local Authority,NA,NA
+7.25988920178335,12.4620939003302,NGA.21.32_1,NGA,Nigeria,NGA.21_1,Katsina,NA,Safana,NA,NA,Local Authority,Local Authority,NA,NA
+8.36486361085385,12.9075002710363,NGA.21.33_1,NGA,Nigeria,NGA.21_1,Katsina,NA,Sandamu,NA,NA,Local Authority,Local Authority,NA,NA
+8.53618733564828,12.9410272894723,NGA.21.34_1,NGA,Nigeria,NGA.21_1,Katsina,NA,Zango,NA,NA,Local Authority,Local Authority,NA,NA
+4.45161503134444,12.2562009966866,NGA.22.1_1,NGA,Nigeria,NGA.22_1,Kebbi,NA,Aleiro,NA,NA,Local Authority,Local Authority,NA,NA
+4.00303580212817,12.636621567755,NGA.22.2_1,NGA,Nigeria,NGA.22_1,Kebbi,NA,Arewa Dandi,NA,NA,Local Authority,Local Authority,NA,NA
+4.52102595585646,12.6517710917608,NGA.22.3_1,NGA,Nigeria,NGA.22_1,Kebbi,NA,Argungu,NA,NA,Local Authority,Local Authority,NA,NA
+4.60138563223838,12.8960520498467,NGA.22.4_1,NGA,Nigeria,NGA.22_1,Kebbi,NA,Augie,NA,NA,Local Authority,Local Authority,NA,NA
+3.93542186887426,11.3412059499841,NGA.22.5_1,NGA,Nigeria,NGA.22_1,Kebbi,NA,Bagudo,NA,NA,Local Authority,Local Authority,NA,NA
+4.32783883488333,12.4118616497882,NGA.22.6_1,NGA,Nigeria,NGA.22_1,Kebbi,NA,Birnin Kebbi,NA,NA,Local Authority,Local Authority,NA,NA
+3.96955041531663,12.0940172295955,NGA.22.7_1,NGA,Nigeria,NGA.22_1,Kebbi,NA,Bunza,NA,NA,Local Authority,Local Authority,NA,NA
+3.84327778805772,11.8170377061353,NGA.22.8_1,NGA,Nigeria,NGA.22_1,Kebbi,NA,Dandi,NA,NA,Local Authority,Local Authority,NA,NA
+5.70706244453493,11.3552253476773,NGA.22.9_1,NGA,Nigeria,NGA.22_1,Kebbi,NA,Danko Wasagu,NA,NA,Local Authority,Local Authority,NA,NA
+4.95209063792555,11.4680860662161,NGA.22.10_1,NGA,Nigeria,NGA.22_1,Kebbi,NA,Fakai,NA,NA,Local Authority,Local Authority,NA,NA
+4.72042430378767,12.4223182049438,NGA.22.11_1,NGA,Nigeria,NGA.22_1,Kebbi,NA,Gwandu,NA,NA,Local Authority,Local Authority,NA,NA
+4.49903755415979,12.0384336766961,NGA.22.12_1,NGA,Nigeria,NGA.22_1,Kebbi,NA,Jega,NA,NA,Local Authority,Local Authority,NA,NA
+4.07885719825054,12.2530486030671,NGA.22.13_1,NGA,Nigeria,NGA.22_1,Kebbi,NA,Kalgo,NA,NA,Local Authority,Local Authority,NA,NA
+4.510299775345,11.4161086906744,NGA.22.14_1,NGA,Nigeria,NGA.22_1,Kebbi,NA,Koko/Besse,NA,NA,Local Authority,Local Authority,NA,NA
+4.31671966823334,11.9557560800038,NGA.22.15_1,NGA,Nigeria,NGA.22_1,Kebbi,NA,Maiyama,NA,NA,Local Authority,Local Authority,NA,NA
+4.71180088063727,10.5665617190181,NGA.22.16_1,NGA,Nigeria,NGA.22_1,Kebbi,NA,Ngaski,NA,NA,Local Authority,Local Authority,NA,NA
+5.53454686836582,11.1950047828756,NGA.22.17_1,NGA,Nigeria,NGA.22_1,Kebbi,NA,Sakaba,NA,NA,Local Authority,Local Authority,NA,NA
+4.66123968295625,11.2302511744898,NGA.22.18_1,NGA,Nigeria,NGA.22_1,Kebbi,NA,Shanga,NA,NA,Local Authority,Local Authority,NA,NA
+4.16789424902406,11.7478769358279,NGA.22.19_1,NGA,Nigeria,NGA.22_1,Kebbi,NA,Suru,NA,NA,Local Authority,Local Authority,NA,NA
+4.7599664448223,10.93887336643,NGA.22.20_1,NGA,Nigeria,NGA.22_1,Kebbi,NA,Yauri,NA,NA,Local Authority,Local Authority,NA,NA
+5.3569463662987,11.5284132414222,NGA.22.21_1,NGA,Nigeria,NGA.22_1,Kebbi,NA,Zuru,NA,NA,Local Authority,Local Authority,NA,NA
+6.43903812256358,7.64311516712324,NGA.23.1_1,NGA,Nigeria,NGA.23_1,Kogi,NA,Adavi,NA,NA,Local Authority,Local Authority,NA,NA
+6.55578822444167,7.48686679796212,NGA.23.2_1,NGA,Nigeria,NGA.23_1,Kogi,NA,Ajaokuta,NA,NA,Local Authority,Local Authority,NA,NA
+7.63057130692561,7.46273957928228,NGA.23.3_1,NGA,Nigeria,NGA.23_1,Kogi,NA,Ankpa,NA,NA,Local Authority,Local Authority,NA,NA
+6.95203520538969,7.72403432803201,NGA.23.4_1,NGA,Nigeria,NGA.23_1,Kogi,NA,Bassa,NA,NA,Local Authority,Local Authority,NA,NA
+7.14634166164637,7.58126961883577,NGA.23.5_1,NGA,Nigeria,NGA.23_1,Kogi,NA,Dekina,NA,NA,Local Authority,Local Authority,NA,NA
+6.76547356646266,6.78024776880835,NGA.23.6_1,NGA,Nigeria,NGA.23_1,Kogi,NA,Ibaji,NA,NA,Local Authority,Local Authority,NA,NA
+6.7108183151313,7.05835050459118,NGA.23.7_1,NGA,Nigeria,NGA.23_1,Kogi,NA,Idah,NA,NA,Local Authority,Local Authority,NA,NA
+7.00966923016921,7.02154123796959,NGA.23.8_1,NGA,Nigeria,NGA.23_1,Kogi,NA,Igalamela-Odolu,NA,NA,Local Authority,Local Authority,NA,NA
+5.91944665633542,7.85502883342711,NGA.23.9_1,NGA,Nigeria,NGA.23_1,Kogi,NA,Ijumu,NA,NA,Local Authority,Local Authority,NA,NA
+6.11050608768249,8.0419756380539,NGA.23.10_1,NGA,Nigeria,NGA.23_1,Kogi,NA,Kabba/Bunu,NA,NA,Local Authority,Local Authority,NA,NA
+6.86130267167381,8.09410584146624,NGA.23.11_1,NGA,Nigeria,NGA.23_1,Kogi,NA,Kogi,Koton-Karfe,NA,Local Authority,Local Authority,NA,NA
+6.5415463758863,8.20382915295744,NGA.23.12_1,NGA,Nigeria,NGA.23_1,Kogi,NA,Lokoja,NA,NA,Local Authority,Local Authority,NA,NA
+5.85891198451784,8.08963484397126,NGA.23.13_1,NGA,Nigeria,NGA.23_1,Kogi,NA,Mopa-Muro,NA,NA,Local Authority,Local Authority,NA,NA
+7.06414775476076,7.31690645184387,NGA.23.14_1,NGA,Nigeria,NGA.23_1,Kogi,NA,Ofu,NA,NA,Local Authority,Local Authority,NA,NA
+6.15450168692702,7.46694306447179,NGA.23.15_1,NGA,Nigeria,NGA.23_1,Kogi,NA,Ogori/Magongo,NA,NA,Local Authority,Local Authority,NA,NA
+6.33137835600251,7.69614552503687,NGA.23.16_1,NGA,Nigeria,NGA.23_1,Kogi,NA,Okehi,NA,NA,Local Authority,Local Authority,NA,NA
+6.36845074531976,7.43599393000265,NGA.23.17_1,NGA,Nigeria,NGA.23_1,Kogi,NA,Okene,NA,NA,Local Authority,Local Authority,NA,NA
+7.53729616741245,7.16254068218573,NGA.23.18_1,NGA,Nigeria,NGA.23_1,Kogi,NA,Olamaboro,NA,NA,Local Authority,Local Authority,NA,NA
+7.56316210431571,7.76648033781493,NGA.23.19_1,NGA,Nigeria,NGA.23_1,Kogi,NA,Omala,NA,NA,Local Authority,Local Authority,NA,NA
+5.68437791366014,8.11151899748684,NGA.23.20_1,NGA,Nigeria,NGA.23_1,Kogi,NA,Yagba East,NA,NA,Local Authority,Local Authority,NA,NA
+5.51873740866357,8.2696719873479,NGA.23.21_1,NGA,Nigeria,NGA.23_1,Kogi,NA,Yagba West,NA,NA,Local Authority,Local Authority,NA,NA
+4.48022191341187,8.39751855605668,NGA.24.1_1,NGA,Nigeria,NGA.24_1,Kwara,NA,Asa,NA,NA,Local Authority,Local Authority,NA,NA
+3.48693271964911,9.33932158704834,NGA.24.2_1,NGA,Nigeria,NGA.24_1,Kwara,NA,Baruten,NA,NA,Local Authority,Local Authority,NA,NA
+5.24473781731758,8.82178930913608,NGA.24.3_1,NGA,Nigeria,NGA.24_1,Kwara,NA,Edu,NA,NA,Local Authority,Local Authority,NA,NA
+5.36073057783337,8.07404681893247,NGA.24.4_1,NGA,Nigeria,NGA.24_1,Kwara,NA,Ekiti,NA,NA,Local Authority,Local Authority,NA,NA
+5.19709634095751,8.61319249349091,NGA.24.5_1,NGA,Nigeria,NGA.24_1,Kwara,NA,Ifelodun,NA,NA,Local Authority,Local Authority,NA,NA
+4.78738600539226,8.56720146527774,NGA.24.6_1,NGA,Nigeria,NGA.24_1,Kwara,NA,Ilorin East,NA,NA,Local Authority,Local Authority,NA,NA
+4.70789080418146,8.43485504964629,NGA.24.7_1,NGA,Nigeria,NGA.24_1,Kwara,NA,Ilorin South,NA,NA,Local Authority,Local Authority,NA,NA
+4.55382999944698,8.47986310071129,NGA.24.8_1,NGA,Nigeria,NGA.24_1,Kwara,NA,Ilorin West,NA,NA,Local Authority,Local Authority,NA,NA
+4.86199283301599,8.19375783721226,NGA.24.9_1,NGA,Nigeria,NGA.24_1,Kwara,NA,Irepodun,NA,NA,Local Authority,Local Authority,NA,NA
+5.04555045007549,8.2470501541231,NGA.24.10_1,NGA,Nigeria,NGA.24_1,Kwara,NA,Isin,NA,NA,Local Authority,Local Authority,NA,NA
+4.12740941149483,9.5497961599381,NGA.24.11_1,NGA,Nigeria,NGA.24_1,Kwara,NA,Kaiama,NA,NA,Local Authority,Local Authority,NA,NA
+4.52323718419173,8.83689725143023,NGA.24.12_1,NGA,Nigeria,NGA.24_1,Kwara,NA,Moro,NA,NA,Local Authority,Local Authority,NA,NA
+4.69875238352055,8.14953886156879,NGA.24.13_1,NGA,Nigeria,NGA.24_1,Kwara,NA,Offa,NA,NA,Local Authority,Local Authority,NA,NA
+5.26983172381351,8.15263468334989,NGA.24.14_1,NGA,Nigeria,NGA.24_1,Kwara,NA,Oke-Ero,NA,NA,Local Authority,Local Authority,NA,NA
+4.6407408939876,8.1827637609125,NGA.24.15_1,NGA,Nigeria,NGA.24_1,Kwara,NA,Oyun,NA,NA,Local Authority,Local Authority,NA,NA
+5.82294087087103,8.64163176968799,NGA.24.16_1,NGA,Nigeria,NGA.24_1,Kwara,NA,Pategi,NA,NA,Local Authority,Local Authority,NA,NA
+3.30171004222021,6.64639301725532,NGA.25.1_1,NGA,Nigeria,NGA.25_1,Lagos,NA,Agege,NA,NA,Local Authority,Local Authority,NA,NA
+3.32481182719669,6.46570151250401,NGA.25.2_1,NGA,Nigeria,NGA.25_1,Lagos,NA,Ajeromi/Ifelodun,NA,NA,Local Authority,Local Authority,NA,NA
+3.25658701934325,6.61377307752092,NGA.25.3_1,NGA,Nigeria,NGA.25_1,Lagos,NA,Alimosho,NA,NA,Local Authority,Local Authority,NA,NA
+3.26028126810679,6.46391179478768,NGA.25.4_1,NGA,Nigeria,NGA.25_1,Lagos,NA,Amuwo Odofin,NA,NA,Local Authority,Local Authority,NA,NA
+3.3604116427566,6.43698683146709,NGA.25.5_1,NGA,Nigeria,NGA.25_1,Lagos,NA,Apapa,NA,NA,Local Authority,Local Authority,NA,NA
+2.89913498472103,6.45171164808644,NGA.25.6_1,NGA,Nigeria,NGA.25_1,Lagos,NA,Badagry,NA,NA,Local Authority,Local Authority,NA,NA
+4.04772825697149,6.53107035312479,NGA.25.7_1,NGA,Nigeria,NGA.25_1,Lagos,NA,Epe,NA,NA,Local Authority,Local Authority,NA,NA
+3.54870970573134,6.46071605057267,NGA.25.8_1,NGA,Nigeria,NGA.25_1,Lagos,NA,Eti-Osa,NA,NA,Local Authority,Local Authority,NA,NA
+3.84202864588247,6.46984143884878,NGA.25.9_1,NGA,Nigeria,NGA.25_1,Lagos,NA,Ibeju-Lekki,Ibeju Lekki,NA,Local Authority,Local Authority,NA,NA
+3.30953625944925,6.67541097350701,NGA.25.10_1,NGA,Nigeria,NGA.25_1,Lagos,NA,Ifako/Ijaye,NA,NA,Local Authority,Local Authority,NA,NA
+3.34926126819918,6.62393289690649,NGA.25.11_1,NGA,Nigeria,NGA.25_1,Lagos,NA,Ikeja,NA,NA,Local Authority,Local Authority,NA,NA
+3.56933064201258,6.61385682672035,NGA.25.12_1,NGA,Nigeria,NGA.25_1,Lagos,NA,Ikorodu,NA,NA,Local Authority,Local Authority,NA,NA
+3.4121350189093,6.60766327154894,NGA.25.13_1,NGA,Nigeria,NGA.25_1,Lagos,NA,Kosofe,NA,NA,Local Authority,Local Authority,NA,NA
+3.50506380771034,6.52831757232628,NGA.25.14_1,NGA,Nigeria,NGA.25_1,Lagos,NA,Lagos Island,NA,NA,Local Authority,Local Authority,NA,NA
+3.37196796116158,6.50075931575042,NGA.25.15_1,NGA,Nigeria,NGA.25_1,Lagos,NA,Mainland,Lagos Mainland,NA,Local Authority,Local Authority,NA,NA
+3.34241265518381,6.55094280535838,NGA.25.16_1,NGA,Nigeria,NGA.25_1,Lagos,NA,Mushin,NA,NA,Local Authority,Local Authority,NA,NA
+3.14749364955569,6.47458501638931,NGA.25.17_1,NGA,Nigeria,NGA.25_1,Lagos,NA,Ojo,NA,NA,Local Authority,Local Authority,NA,NA
+3.30235916659284,6.55963144487883,NGA.25.18_1,NGA,Nigeria,NGA.25_1,Lagos,NA,Oshodi/Isolo,NA,NA,Local Authority,Local Authority,NA,NA
+3.38121321633442,6.55472805921233,NGA.25.19_1,NGA,Nigeria,NGA.25_1,Lagos,NA,Shomolu,NA,NA,Local Authority,Local Authority,NA,NA
+3.33535377151343,6.50374687799988,NGA.25.20_1,NGA,Nigeria,NGA.25_1,Lagos,NA,Surulere,NA,NA,Local Authority,Local Authority,NA,NA
+8.31791318830673,9.01026692358361,NGA.26.1_1,NGA,Nigeria,NGA.26_1,Nasarawa,NA,Akwanga,NA,NA,Local Authority,Local Authority,NA,NA
+9.13773233230288,8.20659837827758,NGA.26.2_1,NGA,Nigeria,NGA.26_1,Nasarawa,NA,Awe,NA,NA,Local Authority,Local Authority,NA,NA
+8.32709944381587,8.16024354191802,NGA.26.3_1,NGA,Nigeria,NGA.26_1,Nasarawa,NA,Doma,NA,NA,Local Authority,Local Authority,NA,NA
+7.73347838945687,9.00279216572574,NGA.26.4_1,NGA,Nigeria,NGA.26_1,Nasarawa,NA,Karu,NA,NA,Local Authority,Local Authority,NA,NA
+8.74372769440487,8.15865044556184,NGA.26.5_1,NGA,Nigeria,NGA.26_1,Nasarawa,NA,Keana,NA,NA,Local Authority,Local Authority,NA,NA
+7.83094757812546,8.83414148009044,NGA.26.6_1,NGA,Nigeria,NGA.26_1,Nasarawa,NA,Keffi,NA,NA,Local Authority,Local Authority,NA,NA
+8.06870214029918,8.84811361836661,NGA.26.7_1,NGA,Nigeria,NGA.26_1,Nasarawa,NA,Kokona,NA,NA,Local Authority,Local Authority,NA,NA
+8.78447400605985,8.71060889780257,NGA.26.8_1,NGA,Nigeria,NGA.26_1,Nasarawa,NA,Lafia,NA,NA,Local Authority,Local Authority,NA,NA
+7.79273304040999,8.356225484895,NGA.26.9_1,NGA,Nigeria,NGA.26_1,Nasarawa,NA,Nasarawa,Nassarawa,NA,Local Authority,Local Authority,NA,NA
+8.45336497960223,8.71126868557023,NGA.26.10_1,NGA,Nigeria,NGA.26_1,Nasarawa,NA,Nasarawa Eggon,Eggon,NA,Local Authority,Local Authority,NA,NA
+8.75105202570694,8.35775941095162,NGA.26.11_1,NGA,Nigeria,NGA.26_1,Nasarawa,NA,Obi,NA,NA,Local Authority,Local Authority,NA,NA
+7.19663486047219,8.24716722755845,NGA.26.12_1,NGA,Nigeria,NGA.26_1,Nasarawa,NA,Toto,NA,NA,Local Authority,Local Authority,NA,NA
+8.70753079628807,9.00574725700636,NGA.26.13_1,NGA,Nigeria,NGA.26_1,Nasarawa,NA,Wamba,NA,NA,Local Authority,Local Authority,NA,NA
+6.40714257344315,8.90221759559768,NGA.27.1_1,NGA,Nigeria,NGA.27_1,Niger,NA,Agaie,NA,NA,Local Authority,Local Authority,NA,NA
+4.56707776137234,10.767793320947,NGA.27.2_1,NGA,Nigeria,NGA.27_1,Niger,NA,Agwara,NA,NA,Local Authority,Local Authority,NA,NA
+5.98853404004163,9.0850199819313,NGA.27.3_1,NGA,Nigeria,NGA.27_1,Niger,NA,Bida,NA,NA,Local Authority,Local Authority,NA,NA
+4.06929747043512,10.2817158697244,NGA.27.4_1,NGA,Nigeria,NGA.27_1,Niger,NA,Borgu,NA,NA,Local Authority,Local Authority,NA,NA
+6.31947348589489,9.58960584736488,NGA.27.5_1,NGA,Nigeria,NGA.27_1,Niger,NA,Bosso,NA,NA,Local Authority,Local Authority,NA,NA
+6.51691266427736,9.6088205069271,NGA.27.6_1,NGA,Nigeria,NGA.27_1,Niger,NA,Chanchaga,NA,NA,Local Authority,Local Authority,NA,NA
+5.57607044396874,9.03011006203024,NGA.27.7_1,NGA,Nigeria,NGA.27_1,Niger,NA,Edati,NA,NA,Local Authority,Local Authority,NA,NA
+5.97277328806037,9.25984430891079,NGA.27.8_1,NGA,Nigeria,NGA.27_1,Niger,NA,Gbako,NA,NA,Local Authority,Local Authority,NA,NA
+7.00924286105865,9.31374623871376,NGA.27.9_1,NGA,Nigeria,NGA.27_1,Niger,NA,Gurara,NA,NA,Local Authority,Local Authority,NA,NA
+6.18553333080215,9.05602224153424,NGA.27.10_1,NGA,Nigeria,NGA.27_1,Niger,NA,Katcha,NA,NA,Local Authority,Local Authority,NA,NA
+5.49692374838526,10.450175576678,NGA.27.11_1,NGA,Nigeria,NGA.27_1,Niger,NA,Kontagora,NA,NA,Local Authority,Local Authority,NA,NA
+6.64917049277391,8.7865997394822,NGA.27.12_1,NGA,Nigeria,NGA.27_1,Niger,NA,Lapai,NA,NA,Local Authority,Local Authority,NA,NA
+5.61024075181919,9.37299996921924,NGA.27.13_1,NGA,Nigeria,NGA.27_1,Niger,NA,Lavun,NA,NA,Local Authority,Local Authority,NA,NA
+5.01310672164905,10.2776937155289,NGA.27.14_1,NGA,Nigeria,NGA.27_1,Niger,NA,Magama,NA,NA,Local Authority,Local Authority,NA,NA
+5.86658725904663,10.5940158876603,NGA.27.15_1,NGA,Nigeria,NGA.27_1,Niger,NA,Mariga,NA,NA,Local Authority,Local Authority,NA,NA
+5.23239748353176,9.81336338235304,NGA.27.16_1,NGA,Nigeria,NGA.27_1,Niger,NA,Mashegu,NA,NA,Local Authority,Local Authority,NA,NA
+5.10760832806649,9.17983284464091,NGA.27.17_1,NGA,Nigeria,NGA.27_1,Niger,NA,Mokwa,NA,NA,Local Authority,Local Authority,NA,NA
+7.06340232950019,9.78141757489796,NGA.27.18_1,NGA,Nigeria,NGA.27_1,Niger,NA,Muya,NA,NA,Local Authority,Local Authority,NA,NA
+6.78808543149935,9.48222728847129,NGA.27.19_1,NGA,Nigeria,NGA.27_1,Niger,NA,Paikoro,NA,NA,Local Authority,Local Authority,NA,NA
+6.18853856474331,10.2009724854703,NGA.27.20_1,NGA,Nigeria,NGA.27_1,Niger,NA,Rafi,NA,NA,Local Authority,Local Authority,NA,NA
+5.24349912724351,11.0201918368306,NGA.27.21_1,NGA,Nigeria,NGA.27_1,Niger,NA,Rijau,NA,NA,Local Authority,Local Authority,NA,NA
+6.70171145643027,10.0847124388772,NGA.27.22_1,NGA,Nigeria,NGA.27_1,Niger,NA,Shiroro,NA,NA,Local Authority,Local Authority,NA,NA
+7.15230811027588,9.18699637197463,NGA.27.23_1,NGA,Nigeria,NGA.27_1,Niger,NA,Suleja,NA,NA,Local Authority,Local Authority,NA,NA
+7.22106323840448,9.23093723128192,NGA.27.24_1,NGA,Nigeria,NGA.27_1,Niger,NA,Tafa,NA,NA,Local Authority,Local Authority,NA,NA
+5.8822194298087,9.69866431942624,NGA.27.25_1,NGA,Nigeria,NGA.27_1,Niger,NA,Wushishi,NA,NA,Local Authority,Local Authority,NA,NA
+3.20097459067073,7.2408574181863,NGA.28.2_1,NGA,Nigeria,NGA.28_1,Ogun,NA,Abeokuta North,NA,NA,Local Authority,Local Authority,NA,NA
+3.36136017348689,7.17726750111619,NGA.28.1_1,NGA,Nigeria,NGA.28_1,Ogun,NA,Abeokuta South,NA,NA,Local Authority,Local Authority,NA,NA
+3.06887011953129,6.64457444165467,NGA.28.3_1,NGA,Nigeria,NGA.28_1,Ogun,NA,Ado Odo/Ota,NA,NA,Local Authority,Local Authority,NA,NA
+3.16083922003763,6.96797461673034,NGA.28.6_1,NGA,Nigeria,NGA.28_1,Ogun,NA,Ewekoro,NA,NA,Local Authority,Local Authority,NA,NA
+3.30896145884006,6.76573402395763,NGA.28.7_1,NGA,Nigeria,NGA.28_1,Ogun,NA,Ifo,NA,NA,Local Authority,Local Authority,NA,NA
+3.94344648544116,6.78935582169119,NGA.28.11_1,NGA,Nigeria,NGA.28_1,Ogun,NA,Ijebu-Ode,NA,NA,Local Authority,Local Authority,NA,NA
+4.24095068710474,6.8182915579323,NGA.28.9_1,NGA,Nigeria,NGA.28_1,Ogun,NA,Ijebu East,NA,NA,Local Authority,Local Authority,NA,NA
+3.98633078132283,7.01994736715295,NGA.28.10_1,NGA,Nigeria,NGA.28_1,Ogun,NA,Ijebu North,NA,NA,Local Authority,Local Authority,NA,NA
+3.99809885674753,6.88852478226251,NGA.28.8_1,NGA,Nigeria,NGA.28_1,Ogun,NA,Ijebu North-East,NA,NA,Local Authority,Local Authority,NA,NA
+3.67302945677538,6.91601158613881,NGA.28.12_1,NGA,Nigeria,NGA.28_1,Ogun,NA,Ikenne,NA,NA,Local Authority,Local Authority,NA,NA
+2.8588571217446,7.68443281531549,NGA.28.13_1,NGA,Nigeria,NGA.28_1,Ogun,NA,Imeko-Afon,NA,NA,Local Authority,Local Authority,NA,NA
+2.80345568165705,6.66320052329614,NGA.28.14_1,NGA,Nigeria,NGA.28_1,Ogun,NA,Ipokia,NA,NA,Local Authority,Local Authority,NA,NA
+3.43389900633631,6.92757551805604,NGA.28.15_1,NGA,Nigeria,NGA.28_1,Ogun,NA,Obafemi-Owode,NA,NA,Local Authority,Local Authority,NA,NA
+3.44473513341138,7.31931751091082,NGA.28.16_1,NGA,Nigeria,NGA.28_1,Ogun,NA,Odeda,NA,NA,Local Authority,Local Authority,NA,NA
+3.78727976282093,6.80538650694847,NGA.28.17_1,NGA,Nigeria,NGA.28_1,Ogun,NA,Odogbolu,NA,NA,Local Authority,Local Authority,NA,NA
+4.37684780415494,6.4722268892526,NGA.28.18_1,NGA,Nigeria,NGA.28_1,Ogun,NA,Ogun Waterside,NA,NA,Local Authority,Local Authority,NA,NA
+3.71221952553859,6.98854097431039,NGA.28.19_1,NGA,Nigeria,NGA.28_1,Ogun,NA,Remo-North,NA,NA,Local Authority,Local Authority,NA,NA
+3.57472399013856,6.80421941077675,NGA.28.20_1,NGA,Nigeria,NGA.28_1,Ogun,NA,Shagamu,NA,NA,Local Authority,Local Authority,NA,NA
+2.94448522413219,7.14472386497918,NGA.28.4_1,NGA,Nigeria,NGA.28_1,Ogun,NA,Yewa North,Egbado North,NA,Local Authority,Local Authority,NA,NA
+2.93618621480556,6.80364183936373,NGA.28.5_1,NGA,Nigeria,NGA.28_1,Ogun,NA,Yewa South,Egbado South,NA,Local Authority,Local Authority,NA,NA
+5.93619544463229,7.5796758975883,NGA.29.1_1,NGA,Nigeria,NGA.29_1,Ondo,NA,Akoko North-East,NA,NA,Local Authority,Local Authority,NA,NA
+5.78850643833636,7.6602875648524,NGA.29.4_1,NGA,Nigeria,NGA.29_1,Ondo,NA,Akoko North-West,NA,NA,Local Authority,Local Authority,NA,NA
+5.88768416998071,7.42847534316065,NGA.29.2_1,NGA,Nigeria,NGA.29_1,Ondo,NA,Akoko South-East,NA,NA,Local Authority,Local Authority,NA,NA
+5.68788759307474,7.40408094495562,NGA.29.3_1,NGA,Nigeria,NGA.29_1,Ondo,NA,Akoko South-West,NA,NA,Local Authority,Local Authority,NA,NA
+5.29822945766672,7.25235099127477,NGA.29.5_1,NGA,Nigeria,NGA.29_1,Ondo,NA,Akure North,NA,NA,Local Authority,Local Authority,NA,NA
+5.15275875408728,7.22359045388006,NGA.29.6_1,NGA,Nigeria,NGA.29_1,Ondo,NA,Akure South,NA,NA,Local Authority,Local Authority,NA,NA
+4.95862515434327,6.21273937182379,NGA.29.7_1,NGA,Nigeria,NGA.29_1,Ondo,NA,Ese-Odo,NA,NA,Local Authority,Local Authority,NA,NA
+5.24013282018352,6.98797621552021,NGA.29.8_1,NGA,Nigeria,NGA.29_1,Ondo,NA,Idanre,NA,NA,Local Authority,Local Authority,NA,NA
+5.09773960030498,7.34059907505243,NGA.29.9_1,NGA,Nigeria,NGA.29_1,Ondo,NA,Ifedore,NA,NA,Local Authority,Local Authority,NA,NA
+4.7136161625678,6.25249950000014,NGA.29.10_1,NGA,Nigeria,NGA.29_1,Ondo,NA,Ilaje,NA,NA,Local Authority,Local Authority,NA,NA
+4.95932566696391,7.29611856187562,NGA.29.11_1,NGA,Nigeria,NGA.29_1,Ondo,NA,Ile-Oluji/Okeigbo,NA,NA,Local Authority,Local Authority,NA,NA
+4.98614829651048,6.52258875377471,NGA.29.12_1,NGA,Nigeria,NGA.29_1,Ondo,NA,Irele,NA,NA,Local Authority,Local Authority,NA,NA
+4.72963321374169,6.76311136220489,NGA.29.13_1,NGA,Nigeria,NGA.29_1,Ondo,NA,Odigbo,NA,NA,Local Authority,Local Authority,NA,NA
+4.72855842842088,6.56497297879089,NGA.29.14_1,NGA,Nigeria,NGA.29_1,Ondo,NA,Okitipupa,NA,NA,Local Authority,Local Authority,NA,NA
+4.95314503787631,7.05619767179346,NGA.29.15_1,NGA,Nigeria,NGA.29_1,Ondo,NA,Ondo East,NA,NA,Local Authority,Local Authority,NA,NA
+4.74936613817917,7.00115064686457,NGA.29.16_1,NGA,Nigeria,NGA.29_1,Ondo,NA,Ondo West,NA,NA,Local Authority,Local Authority,NA,NA
+5.71759598416854,7.0587063067829,NGA.29.17_1,NGA,Nigeria,NGA.29_1,Ondo,NA,Ose,NA,NA,Local Authority,Local Authority,NA,NA
+5.57900720488543,7.10848959323526,NGA.29.18_1,NGA,Nigeria,NGA.29_1,Ondo,NA,Owo,NA,NA,Local Authority,Local Authority,NA,NA
+4.34259297672035,7.30203831409659,NGA.30.3_1,NGA,Nigeria,NGA.30_1,Osun,NA,Aiyedade,NA,NA,Local Authority,Local Authority,NA,NA
+4.81348844409831,7.33014761148833,NGA.30.1_1,NGA,Nigeria,NGA.30_1,Osun,NA,Atakumosa East,NA,NA,Local Authority,Local Authority,NA,NA
+4.69443947741538,7.46593659643045,NGA.30.2_1,NGA,Nigeria,NGA.30_1,Osun,NA,Atakumosa West,NA,NA,Local Authority,Local Authority,NA,NA
+4.21404864869631,7.54098664505401,NGA.30.4_1,NGA,Nigeria,NGA.30_1,Osun,NA,Ayedire,NA,NA,Local Authority,Local Authority,NA,NA
+4.81590744722775,7.93328878130685,NGA.30.5_1,NGA,Nigeria,NGA.30_1,Osun,NA,Boluwaduro,NA,NA,Local Authority,Local Authority,NA,NA
+4.67764000347372,7.84707786852316,NGA.30.6_1,NGA,Nigeria,NGA.30_1,Osun,NA,Boripe,NA,NA,Local Authority,Local Authority,NA,NA
+4.50062730497905,7.71189184359587,NGA.30.7_1,NGA,Nigeria,NGA.30_1,Osun,NA,Ede North,NA,NA,Local Authority,Local Authority,NA,NA
+4.47222861404819,7.63531318248827,NGA.30.8_1,NGA,Nigeria,NGA.30_1,Osun,NA,Ede South,NA,NA,Local Authority,Local Authority,NA,NA
+4.44682210441995,7.75778525386141,NGA.30.9_1,NGA,Nigeria,NGA.30_1,Osun,NA,Egbedore,NA,NA,Local Authority,Local Authority,NA,NA
+4.31475612455051,7.79281588772065,NGA.30.10_1,NGA,Nigeria,NGA.30_1,Osun,NA,Ejigbo,NA,NA,Local Authority,Local Authority,NA,NA
+4.61379121499273,7.45900446384184,NGA.30.14_1,NGA,Nigeria,NGA.30_1,Osun,NA,Ife Central,NA,NA,Local Authority,Local Authority,NA,NA
+4.60043918441547,7.34097424280018,NGA.30.11_1,NGA,Nigeria,NGA.30_1,Osun,NA,Ife East,NA,NA,Local Authority,Local Authority,NA,NA
+4.45640298715267,7.27846216609249,NGA.30.12_1,NGA,Nigeria,NGA.30_1,Osun,NA,Ife North,NA,NA,Local Authority,Local Authority,NA,NA
+4.60208160912382,7.20157290401573,NGA.30.13_1,NGA,Nigeria,NGA.30_1,Osun,NA,Ife South,NA,NA,Local Authority,Local Authority,NA,NA
+5.00237465467719,7.95776815485548,NGA.30.15_1,NGA,Nigeria,NGA.30_1,Osun,NA,Ifedayo,NA,NA,Local Authority,Local Authority,NA,NA
+4.64699739445422,7.88644963072125,NGA.30.16_1,NGA,Nigeria,NGA.30_1,Osun,NA,Ifelodun,NA,NA,Local Authority,Local Authority,NA,NA
+4.90705095535202,7.9534411942992,NGA.30.17_1,NGA,Nigeria,NGA.30_1,Osun,NA,Ila,NA,NA,Local Authority,Local Authority,NA,NA
+4.7648539763461,7.59176494516152,NGA.30.18_1,NGA,Nigeria,NGA.30_1,Osun,NA,Ilesha East,NA,NA,Local Authority,Local Authority,NA,NA
+4.71801994606539,7.62223008446218,NGA.30.19_1,NGA,Nigeria,NGA.30_1,Osun,NA,Ilesha West,NA,NA,Local Authority,Local Authority,NA,NA
+4.53230389602339,7.85824372037878,NGA.30.20_1,NGA,Nigeria,NGA.30_1,Osun,NA,Irepodun,NA,NA,Local Authority,Local Authority,NA,NA
+4.21875079445294,7.39341361693402,NGA.30.21_1,NGA,Nigeria,NGA.30_1,Osun,NA,Irewole,NA,NA,Local Authority,Local Authority,NA,NA
+4.1942450555567,7.2675197612253,NGA.30.22_1,NGA,Nigeria,NGA.30_1,Osun,NA,Isokan,NA,NA,Local Authority,Local Authority,NA,NA
+4.13633826845387,7.6304039324392,NGA.30.23_1,NGA,Nigeria,NGA.30_1,Osun,NA,Iwo,NA,NA,Local Authority,Local Authority,NA,NA
+4.7780625912338,7.75531929686136,NGA.30.24_1,NGA,Nigeria,NGA.30_1,Osun,NA,Obokun,NA,NA,Local Authority,Local Authority,NA,NA
+4.68579957392229,7.99337696771128,NGA.30.25_1,NGA,Nigeria,NGA.30_1,Osun,NA,Odo-Otin,NA,NA,Local Authority,Local Authority,NA,NA
+4.19812971367473,7.71626994722763,NGA.30.26_1,NGA,Nigeria,NGA.30_1,Osun,NA,Ola Oluwa,NA,NA,Local Authority,Local Authority,NA,NA
+4.58727718461934,7.86231256840181,NGA.30.27_1,NGA,Nigeria,NGA.30_1,Osun,NA,Olorunda,NA,NA,Local Authority,Local Authority,NA,NA
+4.89921757635882,7.50705364709362,NGA.30.28_1,NGA,Nigeria,NGA.30_1,Osun,NA,Oriade,NA,NA,Local Authority,Local Authority,NA,NA
+4.47474402729442,7.88511881274531,NGA.30.29_1,NGA,Nigeria,NGA.30_1,Osun,NA,Orolu,NA,NA,Local Authority,Local Authority,NA,NA
+4.57995147555081,7.7558774907585,NGA.30.30_1,NGA,Nigeria,NGA.30_1,Osun,NA,Osogbo,NA,NA,Local Authority,Local Authority,NA,NA
+3.91361844870927,7.75292461208177,NGA.31.1_1,NGA,Nigeria,NGA.31_1,Oyo,NA,Afijio,NA,NA,Local Authority,Local Authority,NA,NA
+3.90819409503742,7.54200369361896,NGA.31.2_1,NGA,Nigeria,NGA.31_1,Oyo,NA,Akinyele,NA,NA,Local Authority,Local Authority,NA,NA
+3.88759855522389,8.23315101150038,NGA.31.3_1,NGA,Nigeria,NGA.31_1,Oyo,NA,Atiba,NA,NA,Local Authority,Local Authority,NA,NA
+3.12737436362895,8.37337861928606,NGA.31.4_1,NGA,Nigeria,NGA.31_1,Oyo,NA,Atisbo,NA,NA,Local Authority,Local Authority,NA,NA
+4.03997335061666,7.38829084404449,NGA.31.5_1,NGA,Nigeria,NGA.31_1,Oyo,NA,Egbeda,NA,NA,Local Authority,Local Authority,NA,NA
+3.91180058572641,7.40986680354365,NGA.31.6_1,NGA,Nigeria,NGA.31_1,Oyo,NA,Ibadan North,NA,NA,Local Authority,Local Authority,NA,NA
+3.92797823728404,7.37464912858194,NGA.31.7_1,NGA,Nigeria,NGA.31_1,Oyo,NA,Ibadan North-East,NA,NA,Local Authority,Local Authority,NA,NA
+3.86781024060968,7.40282865944523,NGA.31.8_1,NGA,Nigeria,NGA.31_1,Oyo,NA,Ibadan North-West,NA,NA,Local Authority,Local Authority,NA,NA
+3.90935337020275,7.33722112162345,NGA.31.9_1,NGA,Nigeria,NGA.31_1,Oyo,NA,Ibadan South-East,NA,NA,Local Authority,Local Authority,NA,NA
+3.86491955929152,7.35382335163783,NGA.31.10_1,NGA,Nigeria,NGA.31_1,Oyo,NA,Ibadan South-West,NA,NA,Local Authority,Local Authority,NA,NA
+3.22797740137322,7.42271020920273,NGA.31.11_1,NGA,Nigeria,NGA.31_1,Oyo,NA,Ibarapa Central,NA,NA,Local Authority,Local Authority,NA,NA
+3.45776508993361,7.59768557468764,NGA.31.12_1,NGA,Nigeria,NGA.31_1,Oyo,NA,Ibarapa East,NA,NA,Local Authority,Local Authority,NA,NA
+3.15821273329178,7.64882143963237,NGA.31.13_1,NGA,Nigeria,NGA.31_1,Oyo,NA,Ibarapa North,NA,NA,Local Authority,Local Authority,NA,NA
+3.70787580599142,7.50210772907021,NGA.31.14_1,NGA,Nigeria,NGA.31_1,Oyo,NA,Ido,NA,NA,Local Authority,Local Authority,NA,NA
+3.89401645454122,9.01606499894322,NGA.31.15_1,NGA,Nigeria,NGA.31_1,Oyo,NA,Irepo,NA,NA,Local Authority,Local Authority,NA,NA
+3.55344028538274,7.85308010952677,NGA.31.16_1,NGA,Nigeria,NGA.31_1,Oyo,NA,Iseyin,NA,NA,Local Authority,Local Authority,NA,NA
+3.44947065047931,8.20815462643999,NGA.31.17_1,NGA,Nigeria,NGA.31_1,Oyo,NA,Itesiwaju,NA,NA,Local Authority,Local Authority,NA,NA
+3.03947200417281,7.97022433698591,NGA.31.18_1,NGA,Nigeria,NGA.31_1,Oyo,NA,Iwajowa,NA,NA,Local Authority,Local Authority,NA,NA
+3.36030914381225,8.02387393664765,NGA.31.19_1,NGA,Nigeria,NGA.31_1,Oyo,NA,Kajola,NA,NA,Local Authority,Local Authority,NA,NA
+4.065956377986,7.49883449111392,NGA.31.20_1,NGA,Nigeria,NGA.31_1,Oyo,NA,Lagelu,NA,NA,Local Authority,Local Authority,NA,NA
+4.26477872494665,8.15632475201588,NGA.31.21_1,NGA,Nigeria,NGA.31_1,Oyo,NA,Ogbomosho North,NA,NA,Local Authority,Local Authority,NA,NA
+4.22201275195861,8.08373306739377,NGA.31.22_1,NGA,Nigeria,NGA.31_1,Oyo,NA,Ogbomosho South,NA,NA,Local Authority,Local Authority,NA,NA
+4.18002497235383,7.95021943292596,NGA.31.23_1,NGA,Nigeria,NGA.31_1,Oyo,NA,Ogo Oluwa,NA,NA,Local Authority,Local Authority,NA,NA
+4.07303797623017,8.7886000591471,NGA.31.24_1,NGA,Nigeria,NGA.31_1,Oyo,NA,Olorunsogo,NA,NA,Local Authority,Local Authority,NA,NA
+3.89000249136522,7.18899660874123,NGA.31.25_1,NGA,Nigeria,NGA.31_1,Oyo,NA,Oluyole,NA,NA,Local Authority,Local Authority,NA,NA
+4.06211472184892,7.23841651052537,NGA.31.26_1,NGA,Nigeria,NGA.31_1,Oyo,NA,Ona Ara,NA,NA,Local Authority,Local Authority,NA,NA
+3.82100862816008,8.7810302944963,NGA.31.27_1,NGA,Nigeria,NGA.31_1,Oyo,NA,Orelope,NA,NA,Local Authority,Local Authority,NA,NA
+4.18976425799697,8.2937266420116,NGA.31.28_1,NGA,Nigeria,NGA.31_1,Oyo,NA,Ori-Ire,NA,NA,Local Authority,Local Authority,NA,NA
+4.03017491414079,7.87702342438198,NGA.31.29_1,NGA,Nigeria,NGA.31_1,Oyo,NA,Oyo East,NA,NA,Local Authority,Local Authority,NA,NA
+3.82669017986676,7.96173230732801,NGA.31.30_1,NGA,Nigeria,NGA.31_1,Oyo,NA,Oyo West,NA,NA,Local Authority,Local Authority,NA,NA
+3.58361238453149,8.68221307268034,NGA.31.31_1,NGA,Nigeria,NGA.31_1,Oyo,NA,Saki East,NA,NA,Local Authority,Local Authority,NA,NA
+3.19745566918279,8.60614680013879,NGA.31.32_1,NGA,Nigeria,NGA.31_1,Oyo,NA,Saki West,NA,NA,Local Authority,Local Authority,NA,NA
+4.41429859624297,8.08684577139407,NGA.31.33_1,NGA,Nigeria,NGA.31_1,Oyo,NA,Surulere,NA,NA,Local Authority,Local Authority,NA,NA
+8.94080227834124,9.57317028436743,NGA.32.1_1,NGA,Nigeria,NGA.32_1,Plateau,NA,Barkin Ladi,NA,NA,Local Authority,Local Authority,NA,NA
+8.81267478754114,10.0304334267039,NGA.32.2_1,NGA,Nigeria,NGA.32_1,Plateau,NA,Bassa,NA,NA,Local Authority,Local Authority,NA,NA
+8.86882812098234,9.21811278695284,NGA.32.3_1,NGA,Nigeria,NGA.32_1,Plateau,NA,Bokkos,NA,NA,Local Authority,Local Authority,NA,NA
+9.0777180292544,9.86040164434523,NGA.32.4_1,NGA,Nigeria,NGA.32_1,Plateau,NA,Jos East,NA,NA,Local Authority,Local Authority,NA,NA
+8.86831867476654,9.89871380666826,NGA.32.5_1,NGA,Nigeria,NGA.32_1,Plateau,NA,Jos North,NA,NA,Local Authority,Local Authority,NA,NA
+8.795179010092,9.73288552623125,NGA.32.6_1,NGA,Nigeria,NGA.32_1,Plateau,NA,Jos South,NA,NA,Local Authority,Local Authority,NA,NA
+10.1095331670136,9.53914657620049,NGA.32.7_1,NGA,Nigeria,NGA.32_1,Plateau,NA,Kanam,NA,NA,Local Authority,Local Authority,NA,NA
+9.59145667072472,9.3711257743085,NGA.32.8_1,NGA,Nigeria,NGA.32_1,Plateau,NA,Kanke,NA,NA,Local Authority,Local Authority,NA,NA
+9.76929772243843,9.03203987116613,NGA.32.9_1,NGA,Nigeria,NGA.32_1,Plateau,NA,Langtang North,NA,NA,Local Authority,Local Authority,NA,NA
+9.85426761339307,8.57353453600486,NGA.32.10_1,NGA,Nigeria,NGA.32_1,Plateau,NA,Langtang South,NA,NA,Local Authority,Local Authority,NA,NA
+9.13949776657828,9.3868347410244,NGA.32.11_1,NGA,Nigeria,NGA.32_1,Plateau,NA,Mangu,NA,NA,Local Authority,Local Authority,NA,NA
+9.54079532892486,9.01301880869235,NGA.32.12_1,NGA,Nigeria,NGA.32_1,Plateau,NA,Mikang,NA,NA,Local Authority,Local Authority,NA,NA
+9.33028350676788,9.30930994066522,NGA.32.13_1,NGA,Nigeria,NGA.32_1,Plateau,NA,Pankshin,NA,NA,Local Authority,Local Authority,NA,NA
+9.11807758394257,8.78168420568165,NGA.32.14_1,NGA,Nigeria,NGA.32_1,Plateau,NA,Qua'an Pan,NA,NA,Local Authority,Local Authority,NA,NA
+8.68893917174065,9.53094425280203,NGA.32.15_1,NGA,Nigeria,NGA.32_1,Plateau,NA,Riyom,NA,NA,Local Authority,Local Authority,NA,NA
+9.49090459621761,8.73470249240551,NGA.32.16_1,NGA,Nigeria,NGA.32_1,Plateau,NA,Shendam,NA,NA,Local Authority,Local Authority,NA,NA
+10.222671902543,9.02550668181016,NGA.32.17_1,NGA,Nigeria,NGA.32_1,Plateau,NA,Wase,NA,NA,Local Authority,Local Authority,NA,NA
+6.53231482189119,4.84538527010747,NGA.33.1_1,NGA,Nigeria,NGA.33_1,Rivers,NA,Abua/Odual,NA,NA,Local Authority,Local Authority,NA,NA
+6.62051304768998,5.0519030833725,NGA.33.2_1,NGA,Nigeria,NGA.33_1,Rivers,NA,Ahoada East,NA,NA,Local Authority,Local Authority,NA,NA
+6.49271141074406,5.03896296737167,NGA.33.3_1,NGA,Nigeria,NGA.33_1,Rivers,NA,Ahoada West,NA,NA,Local Authority,Local Authority,NA,NA
+6.74856731367815,4.54136148294348,NGA.33.4_1,NGA,Nigeria,NGA.33_1,Rivers,NA,Akuku-Toru,NA,NA,Local Authority,Local Authority,NA,NA
+7.41469706018028,4.470555,NGA.33.5_1,NGA,Nigeria,NGA.33_1,Rivers,NA,Andoni,NA,NA,Local Authority,Local Authority,NA,NA
+6.82647623136809,4.72777950000014,NGA.33.6_1,NGA,Nigeria,NGA.33_1,Rivers,NA,Asari-Toru,NA,NA,Local Authority,Local Authority,NA,NA
+7.275694,4.443612,NGA.33.7_1,NGA,Nigeria,NGA.33_1,Rivers,NA,Bonny,NA,NA,Local Authority,Local Authority,NA,NA
+6.91638950000015,4.72500050000011,NGA.33.8_1,NGA,Nigeria,NGA.33_1,Rivers,NA,Degema,NA,NA,Local Authority,Local Authority,NA,NA
+7.17159134900752,4.76483934134296,NGA.33.9_1,NGA,Nigeria,NGA.33_1,Rivers,NA,Eleme,NA,NA,Local Authority,Local Authority,NA,NA
+6.72027688590569,5.03379926122599,NGA.33.10_1,NGA,Nigeria,NGA.33_1,Rivers,NA,Emuoha,NA,NA,Local Authority,Local Authority,NA,NA
+7.04270921558765,5.048814416973,NGA.33.11_1,NGA,Nigeria,NGA.33_1,Rivers,NA,Etche,NA,NA,Local Authority,Local Authority,NA,NA
+7.27981799020236,4.66027750000012,NGA.33.12_1,NGA,Nigeria,NGA.33_1,Rivers,NA,Gokana,NA,NA,Local Authority,Local Authority,NA,NA
+6.87348527058126,5.03564898637608,NGA.33.13_1,NGA,Nigeria,NGA.33_1,Rivers,NA,Ikwerre,NA,NA,Local Authority,Local Authority,NA,NA
+7.43211868818942,4.68403601675533,NGA.33.14_1,NGA,Nigeria,NGA.33_1,Rivers,NA,Khana,NA,NA,Local Authority,Local Authority,NA,NA
+6.99465820010893,4.86100562503604,NGA.33.15_1,NGA,Nigeria,NGA.33_1,Rivers,NA,Obio/Akpor,NA,NA,Local Authority,Local Authority,NA,NA
+6.64634011898371,5.44136178493066,NGA.33.16_1,NGA,Nigeria,NGA.33_1,Rivers,NA,Ogba/Egbema/Ndoni,NA,NA,Local Authority,Local Authority,NA,NA
+7.19555673714478,4.65388849373013,NGA.33.17_1,NGA,Nigeria,NGA.33_1,Rivers,NA,Ogu/Bolo,NA,NA,Local Authority,Local Authority,NA,NA
+7.095139,4.63389,NGA.33.18_1,NGA,Nigeria,NGA.33_1,Rivers,NA,Okrika,NA,NA,Local Authority,Local Authority,NA,NA
+7.18394290171631,5.08565827407107,NGA.33.19_1,NGA,Nigeria,NGA.33_1,Rivers,NA,Omumma,NA,NA,Local Authority,Local Authority,NA,NA
+7.53537843273862,4.47333400000011,NGA.33.20_1,NGA,Nigeria,NGA.33_1,Rivers,NA,Opobo/Nkoro,NA,NA,Local Authority,Local Authority,NA,NA
+7.29163933623736,4.84171694934173,NGA.33.21_1,NGA,Nigeria,NGA.33_1,Rivers,NA,Oyigbo,NA,NA,Local Authority,Local Authority,NA,NA
+7.05274169207267,4.68958449950006,NGA.33.22_1,NGA,Nigeria,NGA.33_1,Rivers,NA,Port Harcourt,NA,NA,Local Authority,Local Authority,NA,NA
+7.26052239325959,4.74521650848292,NGA.33.23_1,NGA,Nigeria,NGA.33_1,Rivers,NA,Tai,NA,NA,Local Authority,Local Authority,NA,NA
+4.8983641298038,13.1816759724497,NGA.34.1_1,NGA,Nigeria,NGA.34_1,Sokoto,NA,Binji,NA,NA,Local Authority,Local Authority,NA,NA
+5.23611235805832,12.8252162749833,NGA.34.2_1,NGA,Nigeria,NGA.34_1,Sokoto,NA,Bodinga,NA,NA,Local Authority,Local Authority,NA,NA
+5.47404157765369,12.8203907306969,NGA.34.3_1,NGA,Nigeria,NGA.34_1,Sokoto,NA,Dange-Shuni,NA,NA,Local Authority,Local Authority,NA,NA
+5.34974760820205,13.6855886587357,NGA.34.4_1,NGA,Nigeria,NGA.34_1,Sokoto,NA,Gada,NA,NA,Local Authority,Local Authority,NA,NA
+5.76261261248425,13.3257149011539,NGA.34.5_1,NGA,Nigeria,NGA.34_1,Sokoto,NA,Goronyo,NA,NA,Local Authority,Local Authority,NA,NA
+4.46085844201279,13.4178947386288,NGA.34.6_1,NGA,Nigeria,NGA.34_1,Sokoto,NA,Gudu,NA,NA,Local Authority,Local Authority,NA,NA
+5.38003756499268,13.4318572633068,NGA.34.7_1,NGA,Nigeria,NGA.34_1,Sokoto,NA,Gwadabawa,NA,NA,Local Authority,Local Authority,NA,NA
+5.76679110821727,13.6716308988629,NGA.34.8_1,NGA,Nigeria,NGA.34_1,Sokoto,NA,Illela,NA,NA,Local Authority,Local Authority,NA,NA
+6.37487424686667,13.1979794816914,NGA.34.9_1,NGA,Nigeria,NGA.34_1,Sokoto,NA,Isa,NA,NA,Local Authority,Local Authority,NA,NA
+4.81881158371231,11.8768146972747,NGA.34.10_1,NGA,Nigeria,NGA.34_1,Sokoto,NA,Kebbe,NA,NA,Local Authority,Local Authority,NA,NA
+5.25293005706443,13.1599285847393,NGA.34.11_1,NGA,Nigeria,NGA.34_1,Sokoto,NA,Kware,NA,NA,Local Authority,Local Authority,NA,NA
+5.78414353525178,12.9967654020229,NGA.34.12_1,NGA,Nigeria,NGA.34_1,Sokoto,NA,Rabah,NA,NA,Local Authority,Local Authority,NA,NA
+6.24289045447351,13.501942128166,NGA.34.13_1,NGA,Nigeria,NGA.34_1,Sokoto,NA,Sabon Birni,NA,NA,Local Authority,Local Authority,NA,NA
+5.18610474209034,12.5138722765379,NGA.34.14_1,NGA,Nigeria,NGA.34_1,Sokoto,NA,Shagari,NA,NA,Local Authority,Local Authority,NA,NA
+4.89793749282752,12.9727818481127,NGA.34.15_1,NGA,Nigeria,NGA.34_1,Sokoto,NA,Silame,NA,NA,Local Authority,Local Authority,NA,NA
+5.26712326178729,13.0621161926587,NGA.34.16_1,NGA,Nigeria,NGA.34_1,Sokoto,NA,Sokoto North,NA,NA,Local Authority,Local Authority,NA,NA
+5.26679095902663,13.0223611327337,NGA.34.17_1,NGA,Nigeria,NGA.34_1,Sokoto,NA,Sokoto South,NA,NA,Local Authority,Local Authority,NA,NA
+4.98236660046144,12.4125987273989,NGA.34.18_1,NGA,Nigeria,NGA.34_1,Sokoto,NA,Tambuwal,NA,NA,Local Authority,Local Authority,NA,NA
+5.0033107513099,13.4670238760026,NGA.34.19_1,NGA,Nigeria,NGA.34_1,Sokoto,NA,Tangaza,NA,NA,Local Authority,Local Authority,NA,NA
+5.43605217925859,12.4781726012221,NGA.34.20_1,NGA,Nigeria,NGA.34_1,Sokoto,NA,Tureta,NA,NA,Local Authority,Local Authority,NA,NA
+5.12011181470228,13.0484193492467,NGA.34.21_1,NGA,Nigeria,NGA.34_1,Sokoto,NA,Wamako,Wamakko,NA,Local Authority,Local Authority,NA,NA
+5.504301284478,13.242167995828,NGA.34.22_1,NGA,Nigeria,NGA.34_1,Sokoto,NA,Wurno,NA,NA,Local Authority,Local Authority,NA,NA
+4.99059074263071,12.7449928588055,NGA.34.23_1,NGA,Nigeria,NGA.34_1,Sokoto,NA,Yabo,NA,NA,Local Authority,Local Authority,NA,NA
+11.1910730807996,8.84772623972266,NGA.35.1_1,NGA,Nigeria,NGA.35_1,Taraba,NA,Ardo-Kola,NA,NA,Local Authority,Local Authority,NA,NA
+11.0024265488154,8.10196218363357,NGA.35.2_1,NGA,Nigeria,NGA.35_1,Taraba,NA,Bali,NA,NA,Local Authority,Local Authority,NA,NA
+10.1051394743141,7.69518451769963,NGA.35.3_1,NGA,Nigeria,NGA.35_1,Taraba,NA,Donga,NA,NA,Local Authority,Local Authority,NA,NA
+11.4315366961218,7.54556078189889,NGA.35.4_1,NGA,Nigeria,NGA.35_1,Taraba,NA,Gashaka,NA,NA,Local Authority,Local Authority,NA,NA
+10.5096835972264,8.39025198289341,NGA.35.5_1,NGA,Nigeria,NGA.35_1,Taraba,NA,Gassol,NA,NA,Local Authority,Local Authority,NA,NA
+9.95284544369156,8.37908692212063,NGA.35.6_1,NGA,Nigeria,NGA.35_1,Taraba,NA,Ibi,NA,NA,Local Authority,Local Authority,NA,NA
+11.4097914567058,8.89704218702936,NGA.35.7_1,NGA,Nigeria,NGA.35_1,Taraba,NA,Jalingo,NA,NA,Local Authority,Local Authority,NA,NA
+10.9281126168033,9.15039969478891,NGA.35.8_1,NGA,Nigeria,NGA.35_1,Taraba,NA,Karim Lamido,NA,NA,Local Authority,Local Authority,NA,NA
+10.7586425117382,7.28741765280842,NGA.35.9_1,NGA,Nigeria,NGA.35_1,Taraba,NA,Kurmi,NA,NA,Local Authority,Local Authority,NA,NA
+11.5810665669542,9.19187111135181,NGA.35.10_1,NGA,Nigeria,NGA.35_1,Taraba,NA,Lau,NA,NA,Local Authority,Local Authority,NA,NA
+11.2475645993387,6.94870307465075,NGA.35.11_1,NGA,Nigeria,NGA.35_1,Taraba,NA,Sardauna,NA,NA,Local Authority,Local Authority,NA,NA
+10.104855008452,7.44452709242008,NGA.35.12_1,NGA,Nigeria,NGA.35_1,Taraba,NA,Takum,NA,NA,Local Authority,Local Authority,NA,NA
+9.83995188929672,6.8952068434128,NGA.35.13_1,NGA,Nigeria,NGA.35_1,Taraba,NA,Ussa,NA,NA,Local Authority,Local Authority,NA,NA
+9.69780113476428,7.96151544351446,NGA.35.14_1,NGA,Nigeria,NGA.35_1,Taraba,NA,Wukari,NA,NA,Local Authority,Local Authority,NA,NA
+11.5894413066943,8.87778039612874,NGA.35.15_1,NGA,Nigeria,NGA.35_1,Taraba,NA,Yorro,NA,NA,Local Authority,Local Authority,NA,NA
+11.8329249447557,8.86811534421884,NGA.35.16_1,NGA,Nigeria,NGA.35_1,Taraba,NA,Zing,NA,NA,Local Authority,Local Authority,NA,NA
+10.6595886501296,12.7644300093017,NGA.36.1_1,NGA,Nigeria,NGA.36_1,Yobe,NA,Bade,NA,NA,Local Authority,Local Authority,NA,NA
+11.432574826737,12.69139884419,NGA.36.2_1,NGA,Nigeria,NGA.36_1,Yobe,NA,Borsari,NA,NA,Local Authority,Local Authority,NA,NA
+12.0382007040951,11.7725116456165,NGA.36.3_1,NGA,Nigeria,NGA.36_1,Yobe,NA,Damaturu,NA,NA,Local Authority,Local Authority,NA,NA
+11.2523700136642,11.3447427753253,NGA.36.4_1,NGA,Nigeria,NGA.36_1,Yobe,NA,Fika,NA,NA,Local Authority,Local Authority,NA,NA
+11.426584352585,11.8673894700009,NGA.36.5_1,NGA,Nigeria,NGA.36_1,Yobe,NA,Fune,NA,NA,Local Authority,Local Authority,NA,NA
+12.1298241602081,12.6650130822713,NGA.36.6_1,NGA,Nigeria,NGA.36_1,Yobe,NA,Geidam,NA,NA,Local Authority,Local Authority,NA,NA
+11.9007185129647,11.33402645852,NGA.36.7_1,NGA,Nigeria,NGA.36_1,Yobe,NA,Gujba,NA,NA,Local Authority,Local Authority,NA,NA
+11.7257121079648,10.9163061644859,NGA.36.8_1,NGA,Nigeria,NGA.36_1,Yobe,NA,Gulani,NA,NA,Local Authority,Local Authority,NA,NA
+11.0011652485769,12.3439074347888,NGA.36.9_1,NGA,Nigeria,NGA.36_1,Yobe,NA,Jakusko,NA,NA,Local Authority,Local Authority,NA,NA
+10.7570465454893,12.935495555384,NGA.36.10_1,NGA,Nigeria,NGA.36_1,Yobe,NA,Karasuwa,NA,NA,Local Authority,Local Authority,NA,NA
+10.0380250253361,13.0323686891901,NGA.36.11_1,NGA,Nigeria,NGA.36_1,Yobe,NA,Machina,NA,NA,Local Authority,Local Authority,NA,NA
+11.0226940752975,11.7856948967304,NGA.36.12_1,NGA,Nigeria,NGA.36_1,Yobe,NA,Nangere,NA,NA,Local Authority,Local Authority,NA,NA
+10.3476982542022,12.9544996975585,NGA.36.13_1,NGA,Nigeria,NGA.36_1,Yobe,NA,Nguru,NA,NA,Local Authority,Local Authority,NA,NA
+11.1986687280323,11.7024901406694,NGA.36.14_1,NGA,Nigeria,NGA.36_1,Yobe,NA,Potiskum,NA,NA,Local Authority,Local Authority,NA,NA
+11.8370342836334,12.2242613748288,NGA.36.15_1,NGA,Nigeria,NGA.36_1,Yobe,NA,Tarmuwa,NA,NA,Local Authority,Local Authority,NA,NA
+11.7293414143965,13.0928311398297,NGA.36.16_1,NGA,Nigeria,NGA.36_1,Yobe,NA,Yunusari,NA,NA,Local Authority,Local Authority,NA,NA
+10.7613193114923,13.1238931537059,NGA.36.17_1,NGA,Nigeria,NGA.36_1,Yobe,NA,Yusufari,NA,NA,Local Authority,Local Authority,NA,NA
+6.07408021709035,12.0003281581485,NGA.37.1_1,NGA,Nigeria,NGA.37_1,Zamfara,NA,Anka,NA,NA,Local Authority,Local Authority,NA,NA
+5.83296172047941,12.5436054500012,NGA.37.2_1,NGA,Nigeria,NGA.37_1,Zamfara,NA,Bakura,NA,NA,Local Authority,Local Authority,NA,NA
+6.87494327439722,12.4857038982408,NGA.37.3_1,NGA,Nigeria,NGA.37_1,Zamfara,NA,Birnin-Magaji/Kiyaw,NA,NA,Local Authority,Local Authority,NA,NA
+5.70251305044218,11.9596596436811,NGA.37.4_1,NGA,Nigeria,NGA.37_1,Zamfara,NA,Bukkuyum,NA,NA,Local Authority,Local Authority,NA,NA
+6.48718116831422,12.1336998978102,NGA.37.5_1,NGA,Nigeria,NGA.37_1,Zamfara,NA,Bungudu,NA,NA,Local Authority,Local Authority,NA,NA
+5.25635378773976,11.9699463125755,NGA.37.6_1,NGA,Nigeria,NGA.37_1,Zamfara,NA,Gummi,NA,NA,Local Authority,Local Authority,NA,NA
+6.59188893905434,11.853182014617,NGA.37.7_1,NGA,Nigeria,NGA.37_1,Zamfara,NA,Gusau,NA,NA,Local Authority,Local Authority,NA,NA
+6.56843108235146,12.5094682773362,NGA.37.8_1,NGA,Nigeria,NGA.37_1,Zamfara,NA,Kaura Namoda,NA,NA,Local Authority,Local Authority,NA,NA
+6.24649142084605,12.734397871718,NGA.37.9_1,NGA,Nigeria,NGA.37_1,Zamfara,NA,Maradun,NA,NA,Local Authority,Local Authority,NA,NA
+6.40786585018549,11.3595495654456,NGA.37.10_1,NGA,Nigeria,NGA.37_1,Zamfara,NA,Maru,NA,NA,Local Authority,Local Authority,NA,NA
+6.46140794735583,13.0124766213653,NGA.37.11_1,NGA,Nigeria,NGA.37_1,Zamfara,NA,Shinkafi,NA,NA,Local Authority,Local Authority,NA,NA
+6.1130989201035,12.3864320010702,NGA.37.12_1,NGA,Nigeria,NGA.37_1,Zamfara,NA,Talata-Mafara,NA,NA,Local Authority,Local Authority,NA,NA
+6.96895288681543,11.9137907161991,NGA.37.13_1,NGA,Nigeria,NGA.37_1,Zamfara,NA,Tsafe,NA,NA,Local Authority,Local Authority,NA,NA
+6.84894288423198,12.8717420519788,NGA.37.14_1,NGA,Nigeria,NGA.37_1,Zamfara,NA,Zurmi,NA,NA,Local Authority,Local Authority,NA,NA

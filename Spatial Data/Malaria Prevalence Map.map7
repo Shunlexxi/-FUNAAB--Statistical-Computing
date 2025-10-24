@@ -1,0 +1,50 @@
+<Layers baseMapType="blank">
+  <dataLayer layerType="EpiDashboard.Mapping.ChoroplethLayerProperties">
+    <shapeFile>C:\Users\Prince_Shunlexxi\Desktop\ngaadmbndaadm1osgof\nga_admbnda_adm1_osgof\nga_admbnda_adm1_osgof_20161215.shp</shapeFile>
+<highColor>#F00011FF</highColor>
+<legTitle>Malaria Prevalence</legTitle>
+<showPolyLabels>True</showPolyLabels>
+<classTitles>
+<legendText1></legendText1>
+<legendText2></legendText2>
+<legendText3></legendText3>
+<legendText4></legendText4>
+<legendText5></legendText5>
+<legendText6></legendText6>
+<legendText7></legendText7>
+<legendText8></legendText8>
+<legendText9></legendText9>
+<legendText10></legendText10>
+</classTitles>
+<useCustomColors>False</useCustomColors>
+<resolution>1238.63717439954</resolution>
+<centerPoint_X>965543.366770334</centerPoint_X>
+<centerPoint_Y>1018963.90540103</centerPoint_Y>
+<spatialRef>102100</spatialRef>
+<envMinX>10554.105308291</envMinX>
+<envMinY>475821.504426832</envMinY>
+<envMaxX>1920532.62823238</envMaxX>
+<envMaxY>1562106.30637523</envMaxY>
+<partitionUsingQuantiles>True</partitionUsingQuantiles>
+<customColors>
+<rctColor1>255,255,255</rctColor1>
+<rctColor2>192,196,255</rctColor2>
+<rctColor3>129,137,255</rctColor3>
+<rctColor4>66,78,255</rctColor4>
+<rctColor5>3,19,255</rctColor5>
+<rctColor6>196,216,255</rctColor6>
+<rctColor7>133,157,255</rctColor7>
+<rctColor8>70,98,255</rctColor8>
+<rctColor9>7,39,255</rctColor9>
+<rctColor10>200,236,255</rctColor10>
+</customColors>
+<lowColor>#F0FFFFFF</lowColor>
+<missingColor>#FFD3D3D3</missingColor>
+<classes>2</classes>
+<dataKey>State</dataKey>
+<shapeKey>admin1name</shapeKey>
+<value>Malaria_Prevalence_2020</value>
+<opacity>178</opacity>
+<versionTag>7.2.5.0</versionTag>
+<dashboardHelper><connectionString>zHDkaR2yI5Pbh2/LYHfZ7ljYKFwMFLb6TrxCvYEORi7csqJucXA0eUm4ILZ7oROEKyOAfm/QAaugSlOQC0JnJP1rgbNB3uxFA6hZDM8K3LJzhaiQYbD6kNenoJvaNQGmWu3LzkxVyKqgnwN/5XlPpeiw9pdXttbJvexNQvgfyDdQVyGOS6UN05w9HMXSX+UNtFcyfCMsVBJBMX5v7PCzm0XNuBK/cbHf3hC7cLALen4=</connectionString><databaseTypeIdentifier>CSV</databaseTypeIdentifier><tableName>NGGC#csv</tableName><useAdvancedDataFilterCondition>False</useAdvancedDataFilterCondition><advancedDataFilterCondition></advancedDataFilterCondition><ReportId>b0e4dae7-adbf-4161-bc44-70b47e674dfb</ReportId><relatedDataConnections /><dataFilters recordProcessScope="undeleted" /><dashboardRules /></dashboardHelper></dataLayer>
+</Layers>

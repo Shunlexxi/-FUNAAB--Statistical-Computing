@@ -1,0 +1,41 @@
+x1<-pnorm(rnorm(10))
+x2<-pnorm(rnorm(10))
+x3<-pnorm(rnorm(10))
+x4<-pnorm(rnorm(10))
+x5<-pnorm(rnorm(10))
+X<-array(c(x1,x2,x3,x4,x5),dim=c(10,5))
+
+t<-array(c(pnorm(rnorm(10))),dim=c(10,1))
+
+
+n=10
+k=5
+i<-seq(0,(n*k),1)
+c<-sum((gamma(i+(1/(2*theta[2]))))^(-1))
+
+
+a1<-c(theta[3],theta[3],theta[3],theta[3],theta[3],theta[3],theta[3],theta[3],theta[3],theta[3])
+tta1<-c(theta[4],theta[4],theta[4],theta[4],theta[4],theta[4],theta[4],theta[4],theta[4],theta[4])
+a11<-array(a1,dim=c(10,1))
+tta11<-array(tta1,dim=c(10,1))
+T<-theta[2]*c*exp(-theta[2]*(a11+(tta11*t)))%*%t(a11+(tta11*t))
+a2<-c(theta[5],theta[5],theta[5],theta[5],theta[5],theta[5],theta[5],theta[5],theta[5],theta[5])
+tta2<-c(theta[6],theta[6],theta[6],theta[6],theta[6],theta[6],theta[6],theta[6],theta[6],theta[6])
+a22<-array(a2,dim=c(10,1))
+tta22<-array(tta2,dim=c(10,1))
+q1<-theta[2]*c*exp(-theta[2]*(a22+(tta22*x1)))%*%t(a22+(tta22*x1))
+q2<-theta[2]*c*exp(-theta[2]*(a22+(tta22*x2)))%*%t(a22+(tta22*x2))
+q3<-theta[2]*c*exp(-theta[2]*(a22+(tta22*x3)))%*%t(a22+(tta22*x3))
+q4<-theta[2]*c*exp(-theta[2]*(a22+(tta22*x4)))%*%t(a22+(tta22*x4))
+q5<-theta[2]*c*exp(-theta[2]*(a22+(tta22*x5)))%*%t(a22+(tta22*x5))
+ q<-q1*q2*q3*q4*q5
+theta[3]<-(1/theta[2])-(theta[4]*mean(t))
+theta[5]<-(1/theta[2])-(theta[6]*mean(q))
+theta[4]<-(1/theta[2]-theta[3])*mean(t)
+theta[6]<-(1/mean(q))*(1/theta[2]-theta[5])
+d1<-c(theta[1],theta[1],theta[1],theta[1],theta[1],theta[1],theta[1],theta[1],theta[1],theta[1],theta[1],theta[1],theta[1],theta[1],theta[1],theta[1],theta[1],theta[1],theta[1],theta[1],theta[1],theta[1],theta[1],theta[1],theta[1],theta[1],theta[1],theta[1],theta[1],theta[1],theta[1],theta[1],theta[1],theta[1],theta[1],theta[1],theta[1],theta[1],theta[1],theta[1],theta[1],theta[1],theta[1],theta[1],theta[1],theta[1],theta[1],theta[1],theta[1],theta[1],theta[1],theta[1],theta[1],theta[1],theta[1],theta[1],theta[1],theta[1],theta[1],theta[1],theta[1],theta[1],theta[1],theta[1],theta[1],theta[1],theta[1],theta[1],theta[1],theta[1],theta[1],theta[1],theta[1],theta[1],theta[1],theta[1],theta[1],theta[1],theta[1],theta[1],theta[1],theta[1],theta[1],theta[1],theta[1],theta[1],theta[1],theta[1],theta[1],theta[1],theta[1],theta[1],theta[1],theta[1],theta[1],theta[1],theta[1],theta[1],theta[1],theta[1])
+d2<-c(1+theta[1],1+theta[1],1+theta[1],1+theta[1],1+theta[1],1+theta[1],1+theta[1],1+theta[1],1+theta[1],1+theta[1],1+theta[1],1+theta[1],1+theta[1],1+theta[1],1+theta[1],1+theta[1],1+theta[1],1+theta[1],1+theta[1],1+theta[1],1+theta[1],1+theta[1],1+theta[1],1+theta[1],1+theta[1],1+theta[1],1+theta[1],1+theta[1],1+theta[1],1+theta[1],1+theta[1],1+theta[1],1+theta[1],1+theta[1],1+theta[1],1+theta[1],1+theta[1],1+theta[1],1+theta[1],1+theta[1],1+theta[1],1+theta[1],1+theta[1],1+theta[1],1+theta[1],1+theta[1],1+theta[1],1+theta[1],1+theta[1],1+theta[1],1+theta[1],1+theta[1],1+theta[1],1+theta[1],1+theta[1],1+theta[1],1+theta[1],1+theta[1],1+theta[1],1+theta[1],1+theta[1],1+theta[1],1+theta[1],1+theta[1],1+theta[1],1+theta[1],1+theta[1],1+theta[1],1+theta[1],1+theta[1],1+theta[1],1+theta[1],1+theta[1],1+theta[1],1+theta[1],1+theta[1],1+theta[1],1+theta[1],1+theta[1],1+theta[1],1+theta[1],1+theta[1],1+theta[1],1+theta[1],1+theta[1],1+theta[1],1+theta[1],1+theta[1],1+theta[1],1+theta[1],1+theta[1],1+theta[1],1+theta[1],1+theta[1],1+theta[1],1+theta[1],1+theta[1],1+theta[1],1+theta[1],1+theta[1])
+d11<-array(d1,dim=c(10,10))
+d22<-array(d2,dim=c(10,10))
+M <- function(theta){sum( log(d22 +(d11*T)+(d11*(-1)^(k+1) *q)+(d11 * (-1)^(k+1) * T * q)))}
+L<-nlm(M, theta<-c(0.1,1,0.1,0.1,0.1,0.1), hessian=TRUE)

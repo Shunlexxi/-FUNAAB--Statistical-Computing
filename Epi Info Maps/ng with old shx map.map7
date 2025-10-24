@@ -1,0 +1,50 @@
+<Layers baseMapType="blank">
+  <dataLayer layerType="EpiDashboard.Mapping.ChoroplethLayerProperties">
+    <shapeFile>C:\Users\Prince_Shunlexxi\Desktop\ngaadmbndaadm1osgof\nga_admbnda_adm1_osgof\nga_admbnda_adm1_osgof_20161215.shp</shapeFile>
+<highColor>#F00011FF</highColor>
+<legTitle></legTitle>
+<showPolyLabels>True</showPolyLabels>
+<classTitles>
+<legendText1></legendText1>
+<legendText2></legendText2>
+<legendText3></legendText3>
+<legendText4></legendText4>
+<legendText5></legendText5>
+<legendText6></legendText6>
+<legendText7></legendText7>
+<legendText8></legendText8>
+<legendText9></legendText9>
+<legendText10></legendText10>
+</classTitles>
+<useCustomColors>False</useCustomColors>
+<resolution>1238.60204358811</resolution>
+<centerPoint_X>965543.366770334</centerPoint_X>
+<centerPoint_Y>1018979.31026184</centerPoint_Y>
+<spatialRef>102100</spatialRef>
+<envMinX>10581.1911639043</envMinX>
+<envMinY>475852.314148457</envMinY>
+<envMaxX>1920505.54237676</envMaxX>
+<envMaxY>1562106.30637523</envMaxY>
+<partitionUsingQuantiles>True</partitionUsingQuantiles>
+<customColors>
+<rctColor1>255,255,255</rctColor1>
+<rctColor2>170,176,255</rctColor2>
+<rctColor3>85,97,255</rctColor3>
+<rctColor4>0,18,255</rctColor4>
+<rctColor5>171,195,255</rctColor5>
+<rctColor6>86,116,255</rctColor6>
+<rctColor7>1,37,255</rctColor7>
+<rctColor8>172,214,255</rctColor8>
+<rctColor9>87,135,255</rctColor9>
+<rctColor10>2,56,255</rctColor10>
+</customColors>
+<lowColor>#F0FFFFFF</lowColor>
+<missingColor>#FFD3D3D3</missingColor>
+<classes>1</classes>
+<dataKey>state</dataKey>
+<shapeKey>admin1name</shapeKey>
+<value>number_of_household</value>
+<opacity>178</opacity>
+<versionTag>7.2.5.0</versionTag>
+<dashboardHelper><connectionString>zHDkaR2yI5Pbh2/LYHfZ7ljYKFwMFLb6TrxCvYEORi7csqJucXA0eUm4ILZ7oROEKyOAfm/QAaugSlOQC0JnJP1rgbNB3uxFA6hZDM8K3LJzhaiQYbD6kNenoJvaNQGmWu3LzkxVyKqgnwN/5XlPpVko65V0XdeeWocQ0jGihm6LzG7xmPp0Q4s5AU/CoUmJ2oLTDVj6DAOlP9BlZlKYaZSrotPjfWH2rvz5EeKifX8=</connectionString><databaseTypeIdentifier>CSV</databaseTypeIdentifier><tableName>NGPR81FL#csv</tableName><useAdvancedDataFilterCondition>False</useAdvancedDataFilterCondition><advancedDataFilterCondition></advancedDataFilterCondition><ReportId>ade644db-7337-4076-850e-e98e096a5f08</ReportId><relatedDataConnections /><dataFilters recordProcessScope="undeleted" /><dashboardRules /></dashboardHelper></dataLayer>
+</Layers>

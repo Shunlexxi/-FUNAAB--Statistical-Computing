@@ -1,0 +1,51 @@
+# Solution to f(t,x) 10 X 5 
+
+# rnorm: generates random normal variables
+rnorm(10)
+
+# Creating Array(Matrices) ####
+T <-array(c(pnorm(rnorm(10))),dim=c(10,5))
+T
+
+x1<-pnorm(rnorm(10))
+x2<-pnorm(rnorm(10))
+x3<-pnorm(rnorm(10))
+x4<-pnorm(rnorm(10))
+x5<-pnorm(rnorm(10))
+X<-array(c(x1,x2,x3,x4,x5),dim=c(10,5))
+X
+
+## Declaring Constants ####
+c <- 2
+k <- 3
+
+###function ####
+# Parameters(theta) : 1 = Delta, 2 = Beta, 3 = Theta1, 4 = Theta2, 5 = Alpha1, 6 = Alpha2
+m <- function(theta)
+{
+  sum( log(
+    
+    1 + (theta[1] * theta[2] * c * exp(-theta[2] * (theta[5] + (theta[3] * T))) * (theta[5] + (theta[3] + T))) +
+      
+      
+      theta[1] * (-1)^(k+1) * (theta[2] * c)^k *
+      
+      
+      prod(exp(-theta[2] * (theta[6] + (theta[4] * X)))) * (theta[6] + (theta[4] * X)) + 
+      
+      
+      
+      theta[1] * (-1)^(k+1) * (theta[2] * c)^(k+1) * 
+      
+      
+      exp(-theta[2] * (theta[5] + (theta[3] * T))) * (theta[5] + (theta[3] * T)) * 
+      
+      
+      prod(exp(-theta[2] * (theta[6] + (theta[4] * X))) * (theta[6] + (theta[4] * X)))
+    
+  ))
+}
+#result <- nlm(m, c(2, 0.9, 1, 1), hessian = TRUE)
+result <- nlm(m, c(0.1, 0.1, 0.1, 0.1, 0.1, 0.1), hessian = TRUE)
+result
+

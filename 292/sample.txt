@@ -1,0 +1,39 @@
+
+
+
+> my_samples<-replicate(5,sample(c(1,2,3,4,5)))
+> my_samples
+     [,1] [,2] [,3] [,4] [,5]
+[1,]    5    5    2    3    3
+[2,]    1    1    4    5    4
+[3,]    3    3    5    4    2
+[4,]    4    4    3    2    5
+[5,]    2    2    1    1    1
+> sammple<-replicate(3,sample(c(1,2,3,4)))
+> sammple
+     [,1] [,2] [,3]
+[1,]    2    2    1
+[2,]    4    3    2
+[3,]    3    1    3
+[4,]    1    4    4
+> tail(my_samples)
+     [,1] [,2] [,3] [,4] [,5]
+[1,]    5    5    2    3    3
+[2,]    1    1    4    5    4
+[3,]    3    3    5    4    2
+[4,]    4    4    3    2    5
+[5,]    2    2    1    1    1
+> library()
+> data()
+> example_outcome <- data.frame(group=rep(c("A","B"), each = 4), person=c(1,2,3,4,1,2,3,4), ball=sample(1:8))
+> example_outcome
+  group person ball
+1     A      1    1
+2     A      2    5
+3     A      3    8
+4     A      4    3
+5     B      1    2
+6     B      2    7
+7     B      3    6
+8     B      4    4
+

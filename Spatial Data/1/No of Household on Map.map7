@@ -1,0 +1,50 @@
+<Layers baseMapType="blank">
+  <dataLayer layerType="EpiDashboard.Mapping.ChoroplethLayerProperties">
+    <shapeFile>C:\Users\Prince_Shunlexxi\Desktop\Statistical Computing\Spatial Data\1\gadm41_NGA_1.shp</shapeFile>
+<highColor>#F00011FF</highColor>
+<legTitle>No of Household</legTitle>
+<showPolyLabels>True</showPolyLabels>
+<classTitles>
+<legendText1></legendText1>
+<legendText2></legendText2>
+<legendText3></legendText3>
+<legendText4></legendText4>
+<legendText5></legendText5>
+<legendText6></legendText6>
+<legendText7></legendText7>
+<legendText8></legendText8>
+<legendText9></legendText9>
+<legendText10></legendText10>
+</classTitles>
+<useCustomColors>False</useCustomColors>
+<resolution>1238.32212762732</resolution>
+<centerPoint_X>961694.772971644</centerPoint_X>
+<centerPoint_Y>986629.382073102</centerPoint_Y>
+<spatialRef>102100</spatialRef>
+<envMinX>6948.41257097981</envMinX>
+<envMinY>443625.129108522</envMinY>
+<envMaxX>1916441.13337231</envMaxX>
+<envMaxY>1529633.63503768</envMaxY>
+<partitionUsingQuantiles>True</partitionUsingQuantiles>
+<customColors>
+<rctColor1>255,255,255</rctColor1>
+<rctColor2>170,176,255</rctColor2>
+<rctColor3>85,97,255</rctColor3>
+<rctColor4>0,18,255</rctColor4>
+<rctColor5>171,195,255</rctColor5>
+<rctColor6>86,116,255</rctColor6>
+<rctColor7>1,37,255</rctColor7>
+<rctColor8>172,214,255</rctColor8>
+<rctColor9>87,135,255</rctColor9>
+<rctColor10>2,56,255</rctColor10>
+</customColors>
+<lowColor>#F0FFFFFF</lowColor>
+<missingColor>#FFD3D3D3</missingColor>
+<classes>1</classes>
+<dataKey>state</dataKey>
+<shapeKey>name_1</shapeKey>
+<value>number_of_household</value>
+<opacity>178</opacity>
+<versionTag>7.2.5.0</versionTag>
+<dashboardHelper><connectionString>zHDkaR2yI5Pbh2/LYHfZ7ljYKFwMFLb6TrxCvYEORi7csqJucXA0eUm4ILZ7oROEKyOAfm/QAaugSlOQC0JnJP1rgbNB3uxFA6hZDM8K3LJzhaiQYbD6kNenoJvaNQGmWu3LzkxVyKqgnwN/5XlPpTgFstCIXxbJKLhiRfiKYOkyqqgfpeMpqsyC4pw0cehjGpkwYDwXwoamwrd+pZq1CdBjtzn1SagF7bN5dpCTByk=</connectionString><databaseTypeIdentifier>CSV</databaseTypeIdentifier><tableName>NGPR81FL#csv</tableName><useAdvancedDataFilterCondition>False</useAdvancedDataFilterCondition><advancedDataFilterCondition></advancedDataFilterCondition><ReportId>85523639-f5b6-4959-b9eb-528fec3221cb</ReportId><relatedDataConnections /><dataFilters recordProcessScope="undeleted" /><dashboardRules /></dashboardHelper></dataLayer>
+</Layers>

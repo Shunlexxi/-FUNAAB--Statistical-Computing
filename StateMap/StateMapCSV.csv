@@ -1,0 +1,38 @@
+SN,State,Capital,# Case,poplulation
+1,Abia,Umuahia,6,18
+2,Adamawa,Yola,10,30
+3,Akwa Ibom,Uyo,21,63
+4,Anambra,Awka,27,81
+5,Bauchi,Bauchi,35,105
+6,Bayelsa,Yenagoa,42,126
+7,Benue,Makurdi,50,150
+8,Borno,Maiduguri,57,171
+9,Cross River,Calabar,65,195
+10,Delta,Asaba,72,216
+11,Ebonyi,Abakaliki,80,240
+12,Edo,Benin City,87,261
+13,Ekiti,Ado Ekiti,95,285
+14,Enugu,Enugu,102,306
+15,Gombe,Gombe,110,330
+16,Imo,Owerri,117,351
+17,Jigawa,Dutse,125,375
+18,Kaduna,Kaduna,132,396
+19,Kano,Kano,140,420
+20,Katsina,Katsina,147,441
+21,Kebbi,Birnin Kebbi,155,465
+22,Kogi,Lokoja,162,486
+23,Kwara,Ilorin,170,510
+24,Lagos,Ikeja,177,531
+25,Nasarawa,Lafia,185,555
+26,Niger,Minna,192,576
+27,Ogun,Abeokuta,200,600
+28,Ondo,Akure,207,621
+29,Osun,Oshogbo,215,645
+30,Oyo,Ibadan,222,666
+31,Plateau,Jos,230,690
+32,Rivers,Port Harcourt,237,711
+33,Sokoto,Sokoto,245,735
+34,Taraba,Jalingo,252,756
+35,Yobe,Damaturu,260,780
+36,Zamfara,Gusau,267,801
+37,FCT,Abuja,275,825
