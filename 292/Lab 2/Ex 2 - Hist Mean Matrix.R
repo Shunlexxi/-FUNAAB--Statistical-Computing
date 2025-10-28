@@ -30,9 +30,3 @@ hist(n20means, xlab = " ", prob=T, xlim = range(0:12), ylim = range(0, 0.2, 0.4,
 hist(n50means, xlab = " ", prob=T, xlim = range(0:12), ylim = range(0, 0.2, 0.4, 0.6, 0.8), main = "n50", nclass=10)
 
 hist(n200means, xlab = " ", prob=T, xlim = range(0:12), ylim = range(0, 0.2, 0.4, 0.6, 0.8), main = "n200", nclass=10)
-
-
-
-
-
-

@@ -1,0 +1,17 @@
+yeild,row,column,treatment
+18,I,I,A
+21,I,II,C
+25,I,III,D
+11,I,IV,B
+22,II,I,D
+12,II,II,B
+13,II,III,A
+19,II,IV,C
+15,III,I,B
+20,III,II,A
+23,III,III,C
+24,III,IV,D
+22,IV,I,C
+21,IV,II,D
+10,IV,III,B
+17,IV,IV,A
